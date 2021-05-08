@@ -1,0 +1,107 @@
+{
+  "intents": [
+    {
+      "tags": "greeting",
+      "patterns": [
+        "Hi",
+        "Hello",
+        "Hey"
+      ],
+      "responses": [
+        "Hey :)",
+        "Hi dear.",
+        "Holaaaaa",
+        "Hi................"
+      ]
+    },
+    {
+      "tags": "joke",
+      "patterns": [
+        " ",
+        "Make me laugh",
+        "Tell me something funny"
+      ],
+      "responses": [
+        "I ate a clock yesterday, it was very time-consuming.",
+        "A perfectionist walked into a bar...apparently, the bar wasn’t set high enough.",
+        "The four most beautiful words in our common language: I told you so. - Gore Vidal",
+        "Q: What do you call an animal you keep in your car? A: A Carpet"
+      ]
+    },
+    {
+      "tags": "question",
+      "patterns": [
+        "How are you?",
+        "How are you doing?",
+        "Are you good in health?"
+      ],
+      "responses": [
+        "I am fine. Tell me about yourself",
+        "I am having a beautiful day. How are you?",
+        "I am fine. Thank you :)"
+      ]
+    },
+    {
+      "tags": "sad",
+      "patterns": [
+        "I am not feeling good?",
+        "I am feeling low.",
+        "Can you talk to me please?"
+      ],
+      "responses": [
+        "Tell me. I am always here for you.",
+        "You can rely on me."
+      ]
+    },
+    {
+      "tags": "happy",
+      "patterns": [
+        "I am happy today.",
+        "I am so excited"
+      ],
+      "responses": [
+        "Wow nice. Share your happiness with me please.",
+        "I am happy that you are happy.",
+        "We are happy for each other."
+      ]
+    },
+    {
+      "tags": "bored",
+      "patterns": [
+        "I am feeling bored.",
+        "I have got nothing to do.",
+        "I want to pass time."
+      ],
+      "responses": [
+        "Try watching some web-series.",
+        "Try reading a novel.",
+        "Try drawing."
+      ]
+    },
+    {
+      "tags": "enquiry",
+      "patterns": [
+        "Tell me about yourself.",
+        "What do you do?",
+        "Do you like what you do?"
+      ],
+      "responses": [
+        "I am your chat friend.",
+        "I am here to talk to you and be with you always.",
+        "I love what I do."
+      ]
+    },
+    {
+      "tags": "hobby",
+      "patterns": [
+        "What are your hobbies?",
+        "How do you pass your time?",
+        "What are your skills?"
+      ],
+      "responses": [
+        "I like to read people's comments ;)",
+        "I like to see cartoon's on youtube."
+      ]
+    }
+  ]
+}

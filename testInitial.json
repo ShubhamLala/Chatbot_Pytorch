@@ -1,0 +1,4069 @@
+{
+  "intents": [
+    {
+      "tags": "parking",
+      "patterns": [
+        "Wanna hear a joke?",
+        "Parking space"
+      ],
+      "responses": [
+        "great, can we eat now?"
+      ]
+    },
+    {
+      "tags": "sorry",
+      "patterns": [
+        "I'm from Vermont, where are you from?",
+        "Sorry I'm jumping on the friendship train here"
+      ],
+      "responses": [
+        "Hawaii"
+      ]
+    },
+    {
+      "tags": "hey",
+      "patterns": [
+        "Hey",
+        "si"
+      ],
+      "responses": [
+        "Hey :)"
+      ]
+    },
+    {
+      "tags": "I\nam",
+      "patterns": [
+        "I live on my own",
+        "I like pineapple pizza.",
+        "I am from the US"
+      ],
+      "responses": [
+        "Pineapple Pizza - Lie!"
+      ]
+    },
+    {
+      "tags": "now",
+      "patterns": [
+        "When I started it was great",
+        "Now it makes my back hurt which is fucking retarded"
+      ],
+      "responses": [
+        "Maybe your back hurts most of the time and marijuana just amkes you more aware of it?"
+      ]
+    },
+    {
+      "tags": "thanks",
+      "patterns": [
+        "takes in hug gratefully",
+        "Thanks!"
+      ],
+      "responses": [
+        "no problem"
+      ]
+    },
+    {
+      "tags": "thats",
+      "patterns": [
+        "You and I are friends now.",
+        "That’s my birthday too."
+      ],
+      "responses": [
+        "NO WAY. That's so cool! How are you celebrating?"
+      ]
+    },
+    {
+      "tags": "you",
+      "patterns": [
+        "No",
+        "You are a night owl"
+      ],
+      "responses": [
+        "Yes",
+        "You like country music"
+      ]
+    },
+    {
+      "tags": "your",
+      "patterns": [
+        "If I were to guess...",
+        "I would say the lie is that...",
+        "Your car is not green."
+      ],
+      "responses": [
+        "Yes. Now, what are yours Two truths and a lie?"
+      ]
+    },
+    {
+      "tags": "a",
+      "patterns": [
+        "trans woman",
+        "a man"
+      ],
+      "responses": [
+        "Ding dong your opinion is wrong"
+      ]
+    },
+    {
+      "tags": "actually",
+      "patterns": [
+        "I meant jog, sorry",
+        "Actually kinda feel bad about that typo."
+      ],
+      "responses": [
+        "Oh ok I will if I remember but I can't guarantee I will"
+      ]
+    },
+    {
+      "tags": "although",
+      "patterns": [
+        "Nothing",
+        "Although I’m pretty good at detecting lies. Does that count?"
+      ],
+      "responses": [
+        "Sure that counts! I'm sort of jealous too, how do you do it?"
+      ]
+    },
+    {
+      "tags": "build",
+      "patterns": [
+        "Paint a self portrait.",
+        "Build a House."
+      ],
+      "responses": [
+        "Hang the self portrait in the house?"
+      ]
+    },
+    {
+      "tags": "congratulations",
+      "patterns": [
+        "Damn.",
+        "Congratulations none the less."
+      ],
+      "responses": [
+        "Thank you!"
+      ]
+    },
+    {
+      "tags": "d",
+      "patterns": [
+        "D"
+      ],
+      "responses": [
+        "Hey I'm trying to sleep here"
+      ]
+    },
+    {
+      "tags": "done",
+      "patterns": [
+        "Show me pictures from the Edge or GTFO.",
+        "Done."
+      ],
+      "responses": [
+        "Not possible. The edge is closely guarded by the government, of course."
+      ]
+    },
+    {
+      "tags": "favorite",
+      "patterns": [
+        "Twister? Lol",
+        "Favorite song?"
+      ],
+      "responses": [
+        "Idk tbh lol it always changes.",
+        "Dream job?"
+      ]
+    },
+    {
+      "tags": "friendships",
+      "patterns": [
+        "Romantic, we hit six years in August.",
+        "Friendships, some are going on 25 years."
+      ],
+      "responses": [
+        "Wow"
+      ]
+    },
+    {
+      "tags": "good",
+      "patterns": [
+        "Worth the breakup?",
+        "Is the dog doing okay now?",
+        "Good to go."
+      ],
+      "responses": [
+        "Yeah the dogs fine! Haha absolutely worth the breakup"
+      ]
+    },
+    {
+      "tags": "guess",
+      "patterns": [
+        "Happy birthday man, its my birthday too!",
+        "Guess all the cool kids are born on the 7th"
+      ],
+      "responses": [
+        "what do you want for your birthday?"
+      ]
+    },
+    {
+      "tags": "happy",
+      "patterns": [
+        "Omg there were at least 3 or 4 more people that had their birthday today",
+        "Happy Birthday"
+      ],
+      "responses": [
+        "Thanks a lot, man! I appreciate it! Good luck on your exams!"
+      ]
+    },
+    {
+      "tags": "hehe",
+      "patterns": [
+        "I keep thinking the other person hates me.",
+        "hehe yeah i feel the same too, OP"
+      ],
+      "responses": [
+        "I’m sure you’re awesome!"
+      ]
+    },
+    {
+      "tags": "here",
+      "patterns": [
+        "My ex made me one",
+        "I became hooked",
+        "We broke up",
+        "I made a new one",
+        "Here we are."
+      ],
+      "responses": [
+        "Sorry to hear about that. At least your love of Reddit remained"
+      ]
+    },
+    {
+      "tags": "hope",
+      "patterns": [
+        "Nana internet hug",
+        "Hope that helps"
+      ],
+      "responses": [
+        "Lol, all is well."
+      ]
+    },
+    {
+      "tags": "how",
+      "patterns": [
+        "Damn, this is old.",
+        "How did you find it?"
+      ],
+      "responses": [
+        "Was trying to fine one nd my old posts and stumbled here. Seems fun"
+      ]
+    },
+    {
+      "tags": "im",
+      "patterns": [
+        "Good job!",
+        "I’m really proud of you"
+      ],
+      "responses": [
+        "How can you be proud of someone you've never met?"
+      ]
+    },
+    {
+      "tags": "insomnia",
+      "patterns": [
+        "We can't sleep so we keep each other awake talking about it",
+        "Insomnia Sucks"
+      ],
+      "responses": [
+        "Its better than staring at a wall for hours at least"
+      ]
+    },
+    {
+      "tags": "friends",
+      "patterns": [
+        "i don't have any friends"
+      ],
+      "responses": [
+        "why don't u have any friends?"
+      ]
+    },
+    {
+      "tags": "keep",
+      "patterns": [
+        "Serial hugger here. Hugs  are  magic.",
+        "Keep up the good work!"
+      ],
+      "responses": [
+        "I see you, seeing me, seeing you, seeing me!"
+      ]
+    },
+    {
+      "tags": "lame",
+      "patterns": [
+        "Hm... Probably  I'm inspired by you.",
+        "Lame?"
+      ],
+      "responses": [
+        "Not at all! That's a great compliment."
+      ]
+    },
+    {
+      "tags": "never",
+      "patterns": [
+        "Hi",
+        "Never alone when you have reddit"
+      ],
+      "responses": [
+        "True. Such a lovely place, such a lovely face."
+      ]
+    },
+    {
+      "tags": "no",
+      "patterns": [
+        "You wanna get high?",
+        "I think you do  mahn"
+      ],
+      "responses": [
+        "R unexpected office"
+      ]
+    },
+    {
+      "tags": "thank",
+      "patterns": [
+        "And now I’m crying.",
+        "Thank you for sharing this.",
+        "I love your amazing soul  hugs"
+      ],
+      "responses": [
+        "Oh my gosh you're too sweet."
+      ]
+    },
+    {
+      "tags": "this",
+      "patterns": [
+        "internet hug",
+        "This is the best I could do."
+      ],
+      "responses": [
+        "Thank you!"
+      ]
+    },
+    {
+      "tags": "why",
+      "patterns": [
+        "Why did you choose me?"
+      ],
+      "responses": [
+        "A time traveler would be nothing without a spaceship!"
+      ]
+    },
+    {
+      "tags": "chicken",
+      "patterns": [
+        "Chicken rice stir-fry"
+      ],
+      "responses": [
+        "ooo stir fry sounds like a possibility."
+      ]
+    },
+    {
+      "tags": "having",
+      "patterns": [
+        "Helloo!",
+        "Having a good day?"
+      ],
+      "responses": [
+        "Yes, I am having good, but boring day. You?"
+      ]
+    },
+    {
+      "tags": "how",
+      "patterns": [
+        "Hey",
+        "How's it going?"
+      ],
+      "responses": [
+        "whats up",
+        "good you?"
+      ]
+    },
+    {
+      "tags": "video",
+      "patterns": [
+        "Hip Hop Head",
+        "Video Game Music"
+      ],
+      "responses": [
+        "Nice"
+      ]
+    },
+    {
+      "tags": "maybe",
+      "patterns": [
+        "maybe"
+      ],
+      "responses": [
+        "On it. Let me get back to you."
+      ]
+    },
+    {
+      "tags": "smock",
+      "patterns": [
+        "Smock."
+      ],
+      "responses": [
+        "Sock"
+      ]
+    },
+    {
+      "tags": "brother",
+      "patterns": [
+        "I’m a guy in his 30’s and my favorite compliment from people is when a guy calls me brother.’"
+      ],
+      "responses": [
+        "Being called  Brother  is A-OK by me.  Being called  Chief  sure isn't....  by a coworker"
+      ]
+    },
+    {
+      "tags": "online",
+      "patterns": [
+        "How do u online date’"
+      ],
+      "responses": [
+        "Chatting mostly lol sending presents, visiting each other."
+      ]
+    },
+    {
+      "tags": "funny",
+      "patterns": [
+        "Funny how things fall apart at the same time."
+      ],
+      "responses": [
+        "Stay strong, good man."
+      ]
+    },
+    {
+      "tags": "interesting",
+      "patterns": [
+        "Not every story has to be interesting"
+      ],
+      "responses": [
+        "I feel like I remember this.."
+      ]
+    },
+    {
+      "tags": "master",
+      "patterns": [
+        "Why don’t we call people with masters degree Master"
+      ],
+      "responses": [
+        "I’d never call anybody master"
+      ]
+    },
+    {
+      "tags": "abandonment",
+      "patterns": [
+        "I feel as though I'm suffering severe abandonment issues stemming from childhood. I convince myself I'm not worthy of happiness, and I’m always afraid I'm doing something wrong. It's as if I create little scenarios in my mind, and I start to believe them."
+      ],
+      "responses": [
+        "This is an understandable response to early childhood trauma and loss.  Oftentimes when we have overwhelming or difficult experiences as a child including poor caregiving, the ways we managed and the feelings we had then show up in our lives as adults.  Especially when we get close to someone, it mirrors our early experiences with caregivers in early life.  So....our body, nervous system, and emotions respond in the same way.  They feel as if what we experienced when we were little is happening now and they go into full force to manage and protect us.  Sometimes the ways that happens can feel pretty bad and we can stuck in these loops of old beliefs about ourselves.  Therapy is a great way to interrupt these patterns, process the early experiences, and be able to be in the present with your current relationships.  It is very possible to shift this cycle and also have meaningful healing from the experiences that caused so much hurt and distress from childhood."
+      ]
+    },
+    {
+      "tags": "abandoned",
+      "patterns": [
+        "Why has God abandoned us?"
+      ],
+      "responses": [
+        "He hasn't. The world is getting better on average and has for decades."
+      ]
+    },
+    {
+      "tags": "abilities",
+      "patterns": [
+        "Mind reading abilities"
+      ],
+      "responses": [
+        "You can only hear people mentally complaining."
+      ]
+    },
+    {
+      "tags": "abroad",
+      "patterns": [
+        "I am going to study abroad in Japan"
+      ],
+      "responses": [
+        "How was the education? Planning to do further studies there?"
+      ]
+    },
+    {
+      "tags": "absolutely",
+      "patterns": [
+        "I have absolutely nothing to do with my life but lay in bed on my phone or hangout with my one friend. I don't have a job, my family doesn't include me in anything, and I don't have many friends. I have nothing to do besides go on my phone. I miss talking to people in person instead of online. I don't even talk to my family in person even from the other room."
+      ],
+      "responses": [
+        "It sounds like you are feeling pretty stuck, lonely, and hopeless  like you have a desire to be more connected to people and to find purpose in life, but are not sure what to do. I am glad to hear that you have at least one friend and I think it is great that you are reaching out for more connection. If you can, working with a therapist who is competent in treating depression may be a huge benefit to you and help you to regain a sense of meaning, motivation, and connection. Additionally, anything you can do to give yourself a little break from the feeling of pointlessness and any ruminating thoughts you may be having may be of help. I know it may sound pointless in the moment, and you may feel a great deal of inertia in doing so, but you may find that if you force yourself to do something small that is pleasurable, like taking a walk for example, there's a good chance you will be glad that you did so after the fact. Thank you for reaching out.br"
+      ]
+    },
+    {
+      "tags": "accept",
+      "patterns": [
+        "You should not accept this! Fight back! You can do it!"
+      ],
+      "responses": [
+        "Don't fight back, accept your fate and become the next Spiderman"
+      ]
+    },
+    {
+      "tags": "access",
+      "patterns": [
+        "Only works when you have access to wifi."
+      ],
+      "responses": [
+        "Like, have the password or are within range?"
+      ]
+    },
+    {
+      "tags": "accomplish",
+      "patterns": [
+        "What things do you want to accomplish within one year?"
+      ],
+      "responses": [
+        "By a year, I would like to drastically improve as many peoples' lives as possible."
+      ]
+    },
+    {
+      "tags": "accomplishments",
+      "patterns": [
+        "Does bragging about future accomplishments count?"
+      ],
+      "responses": [
+        "Of course! Whatchu got?"
+      ]
+    },
+    {
+      "tags": "achievable",
+      "patterns": [
+        "This is an achievable goal."
+      ],
+      "responses": [
+        "We all have our own bucket lists."
+      ]
+    },
+    {
+      "tags": "acknowledged",
+      "patterns": [
+        "About two and a half months ago, I met a woman on a dating site. We went out on two dates, and then despite her original plans on how to pace and conduct the relationship, I ended up at her house on a the Friday night one week after our first date. We respectfully tried not to have sex, but after hours of trying to resist each other, we gave in and we had sex. After that, I slept at her house every night for almost two weeks. Then one day, she went to her family’s house on Thanksgiving and everything changed. Within the short time we were together, we got so close and serious really fast. We had finally found each other. We told each other that we loved each other all the time, even while we were making love. A few days after Thanksgiving, she told me that we would have to go back to her original plans of seeing each other much less frequently. I was very hurt and didn’t understand. Then another week later, she told me she couldn’t do it at all anymore. I was crushed!  A few days later, she tells me how much she’s missing me and “let’s get together for lunch” or something like that. Then about two weeks later, we finally get together one night and we were so hot for each other  in love, not just sex , but she confessed that the reason for the sudden distance was that the father of her very young child told her he wants to get back together and this totally messed with her. So for her child’s sake, she is now considering the possibility of allowing that to happen. She had told me all about him previously, and it is definite that she has little to no attraction to him, but she would do this putting herself in misery again for her child. Our love for each other is fully established and acknowledged, but she is torn and confused. She doesn’t even think it would work between them as she had to kick him out before for not fulfilling his role properly. I know she needs time, and all I can do is take care of myself. We have agreed to remain friends, and if this doesn’t work out for her, we will try again. I’m completely in love with her, and I’m in extreme pain."
+      ],
+      "responses": [
+        "Love doesn't hurt.  Your description of the relationship so far, is that you are feeling a lot of emotional pain, alongside a deep attraction for this woman.  In some relationships, the benefit of what draws us together with someone, is being able to learn more about our own deep sense of who we are, what we value and care about.  This sounds more descriptive of your relationship than that it is a loving one. &nbsp   Your descriptions are of the woman's life, parenting and relationship dilemmas, not about how much of an effort she is willing to make in her life so that the two of you are able to be together for the long term.  Try distinguishing your wishes to be loved by this woman with what actually is taking place in everyday life.  Being aware of how much love you'd like to give and receive, is valuable self-knowledge.  Your ongoing emotional wear and tear of all decisions about the relationship that affect you, being the result of the woman's choices, sounds like the opposite of love.  The relationship is very useful as an access in self-understanding of your needs and wishes. &nbsp It sounds like this is its main value in your life, not that it is sustainable in reality.  Good luck!"
+      ]
+    },
+    {
+      "tags": "actions",
+      "patterns": [
+        "I've been with a man for four years. For the last year, he has said he is done, but he still talks, texts, visits, and has not moved on with anyone else. His words do not match his actions. I love this man, but it's hurting so much."
+      ],
+      "responses": [
+        "This can be difficult and confusing.  If you think your boyfriend would be open to having a discussion, try asking him for a time when he is willing to have an important discussion. When that time matches with a time that is good for you, try discussing the type of relationship that you each want to have and what you can start and stop doing to get there. He may want to be really good friends. He may also be trying to figure out what he is feeling.&nbsp   If you end up talking over one another, try letting one person be the one who is talking about their feelings for about five minutes and during that time, try having the other person asked questions to gain more understanding of their experience. Then you can switch. Also consider asking questions that cannot be answered with yes or no, but lead to more explanations.  Questions that start with the words how, what, when, who are usually better than questions starting with  why  because they can be emotional triggers for some people.  If this is difficult to do between the two of you, consider seeing a therapist who specializes in couples."
+      ]
+    },
+    {
+      "tags": "added",
+      "patterns": [
+        "You just added some joy to his life lol"
+      ],
+      "responses": [
+        "I think he added more to mine!"
+      ]
+    },
+    {
+      "tags": "addicted",
+      "patterns": [
+        "Is it true that you're addicted to talking?"
+      ],
+      "responses": [
+        "Yes, very true."
+      ]
+    },
+    {
+      "tags": "addicting",
+      "patterns": [
+        "I love you so much fun and addicting but it is a great day to be a good day to"
+      ],
+      "responses": [
+        "Mines is exactly the same!"
+      ]
+    },
+    {
+      "tags": "adhesive",
+      "patterns": [
+        "The smell of adhesive tape"
+      ],
+      "responses": [
+        "Really? Like all kinds or just one brand?"
+      ]
+    },
+    {
+      "tags": "administrator",
+      "patterns": [
+        "I am a counselor at day camp where we have a child with severe autism. We try to keep him entertained by carrying cards around for when he starts acting up so we can get him to focus on something else. The day camp administrator has told us not to yell at him because he will zone out and not listen, so we just talk in a calm voice. However, other kids see the treatment as unfair."
+      ],
+      "responses": [
+        "Behavioral interaction with someone who has severe autism requires highly specialized training, both for any professional staff involved with the person and for the family members.It is an unfair situation for both the person who has autism as well as the campers who do not, to expect both sides to get along harmoniously.In order to achieve this, the campers would need specialized training to know how to respond to distress in the camper who has autism.This would obviously stretch and burden the summer camp budget as well as provide an activity which usually isn't part of summer camp for children.What you can do which may be productive in helping the camper who has autism, is to point out the interaction difficulty to the summer administrators.Ultimately it is their problem to only take campers who are able to reasonably adjust to socializing together and from what you write, the administration has overreached whom they consider reasonable camper mates."
+      ]
+    },
+    {
+      "tags": "adolescent",
+      "patterns": [
+        "For the last year, my adolescent son and daughter have been driving me nuts with fighting. I'm at my wits end. How can I get them to stop and get along?"
+      ],
+      "responses": [
+        "That is a good question. Unfortunately there is no generic answer with this one. Kids fight for different reasons - wanting attention, wanting respect, feeling jealous, wanting space and to be left alone, or a whole bunch of other reasons. Regardless of the underlying motivations for fighting, most conflicts result from misunderstandings and assumptions about the motivations of others and one of the best ways to start figuring out what is going on is to sit them down and have some conversations with them.&nbsp   These conversations should be centred on getting a better understanding of why they are angry with each other and really understanding them. It is important that they each know that you are committed to understanding their experience rather than simply sitting them down and lecturing them about what they are doing wrong. The more they are able to understand each other and feel understood the more likely they will be cooperative and considerate of each other.&nbsp   One exercise for doing this that can be very helpful is  active listening  where one person speaks and the other person reflects back what they heard the other person say and then checks for understanding. This is hard to do but it often illuminates where the misunderstandings and assumptions are. If this doesn't work it may be time to get a a  httpsnat-roman.squarespace.com config  pages| therapy-counselling-psychotherapy couples-therapy-marriage-counselling family therapist aor counsellor involved who can help facilitate dialogue and resolve conflict.&nbsp"
+      ]
+    },
+    {
+      "tags": "adolescents",
+      "patterns": [
+        "My ex-husband told my two adolescents that Santa doesn't exist on the day before Christmas. They are desperate to hold on to the magic of Christmas, but I don't know if it's right for me to lie to them and tell them that Santa is real. I don't want to let them down and make them lose out on those memories, but I also don't want to lose their trust."
+      ],
+      "responses": [
+        "Well Boise, the cat's out of the bag now, isn't it? I love that you want to help your kids keep the magic of Christmas. They must want that too if they still believe in Santa into their teen years, which is unusual, I believe. I wonder if they had already figured it out anyway?  But they know now, and your ex had the right to tell them if he felt it was best. So it's time to explain to them what a loving and magical thing it is that parents do, and Christmas can still be magical in so many ways. Really, who says they have to stop believing in Santa? Santa is very real as a spirit of surprise, generosity and love.&nbsp"
+      ]
+    },
+    {
+      "tags": "adopted",
+      "patterns": [
+        "I adopted a dog this year and named him Morty. He's the best."
+      ],
+      "responses": [
+        "Congrats on adopting him! What kind of dog is he?"
+      ]
+    },
+    {
+      "tags": "adorable",
+      "patterns": [
+        "Fluffy dogs look more adorable"
+      ],
+      "responses": [
+        "Totally agree. Samoyeds any other breed. My mom doesn't agree though."
+      ]
+    },
+    {
+      "tags": "afternoon",
+      "patterns": [
+        "Good afternoon"
+      ],
+      "responses": [
+        "Good afternoon!  May it be a pleasant one for you."
+      ]
+    },
+    {
+      "tags": "agian",
+      "patterns": [
+        "Im drunk agian!"
+      ],
+      "responses": [
+        "Trying to do something useful."
+      ]
+    },
+    {
+      "tags": "agree",
+      "patterns": [
+        "I agree"
+      ],
+      "responses": [
+        "Hell yeah"
+      ]
+    },
+    {
+      "tags": "airstrike",
+      "patterns": [
+        "Airstrike"
+      ],
+      "responses": [
+        "Plane"
+      ]
+    },
+    {
+      "tags": "aladdin",
+      "patterns": [
+        "Genie from Aladdin."
+      ],
+      "responses": [
+        "A classic!! Love it"
+      ]
+    },
+    {
+      "tags": "algebraical",
+      "patterns": [
+        "Algebraical"
+      ],
+      "responses": [
+        "Differential"
+      ]
+    },
+    {
+      "tags": "allow",
+      "patterns": [
+        "I'll allow it!"
+      ],
+      "responses": [
+        "Ok then, you should try it!"
+      ]
+    },
+    {
+      "tags": "aloha",
+      "patterns": [
+        "aloha"
+      ],
+      "responses": [
+        "Hola"
+      ]
+    },
+    {
+      "tags": "alone",
+      "patterns": [
+        "I'd join you, but i don't know if you want to be alone"
+      ],
+      "responses": [
+        "I'd enjoy the company actually, its been a lonely few months"
+      ]
+    },
+    {
+      "tags": "amen",
+      "patterns": [
+        "Amen!"
+      ],
+      "responses": [
+        "Merry Christmas"
+      ]
+    },
+    {
+      "tags": "americans",
+      "patterns": [
+        "They have The Americans on Netflix?"
+      ],
+      "responses": [
+        "Yep. 3 seasons."
+      ]
+    },
+    {
+      "tags": "amigo",
+      "patterns": [
+        "Let's do this amigo"
+      ],
+      "responses": [
+        "Who is your hero?"
+      ]
+    },
+    {
+      "tags": "andromeda",
+      "patterns": [
+        "Sushi and Mass Effect Andromeda!"
+      ],
+      "responses": [
+        "Sounds like a great combo."
+      ]
+    },
+    {
+      "tags": "annoyed",
+      "patterns": [
+        "Why are you annoyed today?"
+      ],
+      "responses": [
+        "Nothing annoys me. I think I'm terminally chilled out."
+      ]
+    },
+    {
+      "tags": "annually",
+      "patterns": [
+        "Annually"
+      ],
+      "responses": [
+        "Year"
+      ]
+    },
+    {
+      "tags": "antiwork",
+      "patterns": [
+        "antiwork"
+      ],
+      "responses": [
+        "Holy shit I've found my people"
+      ]
+    },
+    {
+      "tags": "anyone",
+      "patterns": [
+        "Anyone want to talk"
+      ],
+      "responses": [
+        "How has your week been so far?"
+      ]
+    },
+    {
+      "tags": "apartment",
+      "patterns": [
+        "I just had a newborn. When I brought him home, my mom told me to leave. Now I'm in a women's home. I don't see my boyfriend that often because he works. The women's place is helping me find an apartment so I can go back to work and get child care."
+      ],
+      "responses": [
+        "Congrats on the birth of your son!  Was your mom's request for you to leave her house, one which she asked awhile ago or was this her greeting when you walked in the door?  My question is whether your mom had some changed circumstance in her life, whether she and you discussed living arrangements prior to your son's birth, or whether nothing was talked about, you assumed you'd be living with her, she assumed you wouldn't, and the two of you didn't speak to one another about any of this.  Depending on the answers, there may be clues as to handling future expectations of others, especially your mom.  From what you write, the women's home is supportive of your basic daily living needs. &nbsp  It is good news that the people who run this home know and offer community resources.  In your interactions with the staff of the women's home, ask all the questions necessary so you'll have a clear understanding of the apartment lease, anything at all that is on your mind about becoming employed and finding childcare.  The point is to have all the major steps you're about to start, addressed.  This way, you'll be minimizing the possibility of any sudden bad news by the women's home, told to you.  Sending lots of good luck!"
+      ]
+    },
+    {
+      "tags": "apologized",
+      "patterns": [
+        "I got in a fight shortly after I left for the beach and never apologized"
+      ],
+      "responses": [
+        "Well sounds like you know how to fix your sadness all by yourself. You dont even need me lol."
+      ]
+    },
+    {
+      "tags": "apple",
+      "patterns": [
+        "Apple"
+      ],
+      "responses": [
+        "Juice"
+      ]
+    },
+    {
+      "tags": "applying",
+      "patterns": [
+        "Applying for a job I guess"
+      ],
+      "responses": [
+        "Hey! I hope you get a good one! Or the one you really want."
+      ]
+    },
+    {
+      "tags": "arnold",
+      "patterns": [
+        "Arnold"
+      ],
+      "responses": [
+        "Tea"
+      ]
+    },
+    {
+      "tags": "around",
+      "patterns": [
+        "I'm shy around girls"
+      ],
+      "responses": [
+        "IMHO shyness is a result of lack of confidence. Fix your confidence fix your shyness."
+      ]
+    },
+    {
+      "tags": "arrow",
+      "patterns": [
+        "Arrow"
+      ],
+      "responses": [
+        "Flash"
+      ]
+    },
+    {
+      "tags": "art",
+      "patterns": [
+        "What sort of art?"
+      ],
+      "responses": [
+        "Spray paint on canvas"
+      ]
+    },
+    {
+      "tags": "atmosphere",
+      "patterns": [
+        "Have you ever just sat down on a random morning and gotten the same feeling or felt the atmosphere exactly the same as a certain day when you were a child?"
+      ],
+      "responses": [
+        "Normally when I’m reminded of my childhood it’s not a pleasant experience."
+      ]
+    },
+    {
+      "tags": "audiobook",
+      "patterns": [
+        "Typically playing xbox, watching Netflix, or listening to music audiobook. What about you?"
+      ],
+      "responses": [
+        "Mostly listening music and redditing snapchatting."
+      ]
+    },
+    {
+      "tags": "awful",
+      "patterns": [
+        "I feel awful."
+      ],
+      "responses": [
+        "Aw why?"
+      ]
+    },
+    {
+      "tags": "axe",
+      "patterns": [
+        "And my axe !"
+      ],
+      "responses": [
+        "And my sword!"
+      ]
+    },
+    {
+      "tags": "babies",
+      "patterns": [
+        "Where do babies come from?"
+      ],
+      "responses": [
+        "Baby trees"
+      ]
+    },
+    {
+      "tags": "babysitter",
+      "patterns": [
+        "My husband always works. He does work from home, but his hours are from morning until night, and he neglects his family. If I have anything I want to do, I have to find a babysitter, but he does what he wants. He rarely comes to bed when I do, and we never have date nights."
+      ],
+      "responses": [
+        "I'm glad you're aware to expect more satisfaction from being part of a couple, than you currently describe yourself as having.  Are you and your husband able to talk about any or all of what you've written here?  His answers would be a starting point for knowing how he understands his share of your relationship and whether and how he would like making any changes.  If the two of you feel too much tension in the relationship to bring up any of the topics you write about here, then ask yourself the reason for this.  Very commonly, people are afraid to ask questions of their partner, even when feeling unhappy and that they'd like changes to the relationship.  Often, people are fearful of harsh criticism by the partner and worry that by simply stating the reasons for feeling unhappy, will mean hearing judgments against them, spoken by the partner.  It is always a good idea to utilize the services of a professional, credentialed and licensed therapist, if after trying to start a conversation on the topics you bring up here, does not go well or very far.  For all of us, the emotions in our intimate relationships are deep and powerful. &nbsp They are not easy to handle, especially under tension and frustration.  Sending lots of good wishes for future happiness!"
+      ]
+    },
+    {
+      "tags": "babysitting",
+      "patterns": [
+        "Working right now, then babysitting tonight."
+      ],
+      "responses": [
+        "so working all day! good luck!"
+      ]
+    },
+    {
+      "tags": "bark",
+      "patterns": [
+        "Bark"
+      ],
+      "responses": [
+        "peppermint"
+      ]
+    },
+    {
+      "tags": "bartender",
+      "patterns": [
+        "I’m a bartender in Los Angeles. What about you?"
+      ],
+      "responses": [
+        "I shelve books in a library."
+      ]
+    },
+    {
+      "tags": "base",
+      "patterns": [
+        "Only one. I work in base pi."
+      ],
+      "responses": [
+        "which number then?"
+      ]
+    },
+    {
+      "tags": "basketball",
+      "patterns": [
+        "Are you the basketball youtuber guy"
+      ],
+      "responses": [
+        "Probably not the one ur thinking of lol I only have 800 subs those guys are close to 1 million"
+      ]
+    },
+    {
+      "tags": "basshunter",
+      "patterns": [
+        "BASSHUNTER"
+      ],
+      "responses": [
+        "This really is a fun game."
+      ]
+    },
+    {
+      "tags": "batman",
+      "patterns": [
+        "Batman"
+      ],
+      "responses": [
+        "Bruce"
+      ]
+    },
+    {
+      "tags": "battery",
+      "patterns": [
+        "Battery"
+      ],
+      "responses": [
+        "Power"
+      ]
+    },
+    {
+      "tags": "battle",
+      "patterns": [
+        "That's half the battle! Good luck at school"
+      ],
+      "responses": [
+        "Thank you. It's going to be rough balancing work school and two doggos but worth it."
+      ]
+    },
+    {
+      "tags": "battlefield",
+      "patterns": [
+        "Just playing some Battlefield 1 tonight"
+      ],
+      "responses": [
+        "Man, you're making me want to kill some stuff now lmao"
+      ]
+    },
+    {
+      "tags": "be",
+      "patterns": [
+        "Be"
+      ],
+      "responses": [
+        "Are"
+      ]
+    },
+    {
+      "tags": "beads",
+      "patterns": [
+        "Beads?!"
+      ],
+      "responses": [
+        "BEES"
+      ]
+    },
+    {
+      "tags": "bean",
+      "patterns": [
+        "Mr Bean"
+      ],
+      "responses": [
+        "My life"
+      ]
+    },
+    {
+      "tags": "bear",
+      "patterns": [
+        "Bear"
+      ],
+      "responses": [
+        "Teddy"
+      ]
+    },
+    {
+      "tags": "beatle",
+      "patterns": [
+        "Who was the best Beatle?"
+      ],
+      "responses": [
+        "George"
+      ]
+    },
+    {
+      "tags": "beautiful",
+      "patterns": [
+        "Eh, I wish I didn't have one, but it's a beautiful thing."
+      ],
+      "responses": [
+        "I feel the same sometimes"
+      ]
+    },
+    {
+      "tags": "beauty",
+      "patterns": [
+        "Beauty and the Beast"
+      ],
+      "responses": [
+        "Mrs. Potts"
+      ]
+    },
+    {
+      "tags": "became",
+      "patterns": [
+        "How old were you when you became blind"
+      ],
+      "responses": [
+        "Was born blind"
+      ]
+    },
+    {
+      "tags": "bedrest",
+      "patterns": [
+        "On bedrest"
+      ],
+      "responses": [
+        "Take Care"
+      ]
+    },
+    {
+      "tags": "before",
+      "patterns": [
+        "Turn back before it's too late!"
+      ],
+      "responses": [
+        "Yeah seriously, if I could have back all the time I've wasted on reddit, I'd still be in 2016"
+      ]
+    },
+    {
+      "tags": "bell",
+      "patterns": [
+        "Bell X1"
+      ],
+      "responses": [
+        "Bella."
+      ]
+    },
+    {
+      "tags": "belong",
+      "patterns": [
+        "Which faith do you belong to?"
+      ],
+      "responses": [
+        "Robotic"
+      ]
+    },
+    {
+      "tags": "bestfriend",
+      "patterns": [
+        "Just trying to keep it together. My bestfriend is in the hospital fighting for her life."
+      ],
+      "responses": [
+        "I am very sorry to hear that. I am praying that she'll get better."
+      ]
+    },
+    {
+      "tags": "betrayed",
+      "patterns": [
+        "I've been betrayed..."
+      ],
+      "responses": [
+        "I am sorry to hear that. Do you want to share about it?"
+      ]
+    },
+    {
+      "tags": "better",
+      "patterns": [
+        "Already getting out of my depressed state. Slowly but surely."
+      ],
+      "responses": [
+        "I hope you feel much better"
+      ]
+    },
+    {
+      "tags": "biochemistry",
+      "patterns": [
+        "Biochemistry and math!"
+      ],
+      "responses": [
+        "The two subjects I'm worst at! Good job."
+      ]
+    },
+    {
+      "tags": "biological",
+      "patterns": [
+        "Biological"
+      ],
+      "responses": [
+        "Physical"
+      ]
+    },
+    {
+      "tags": "biology",
+      "patterns": [
+        "Biology"
+      ],
+      "responses": [
+        "Are you going to professional school or doing research?"
+      ]
+    },
+    {
+      "tags": "bird",
+      "patterns": [
+        "I've just realised I love birds. What's your favourite bird???????"
+      ],
+      "responses": [
+        "The angry ones"
+      ]
+    },
+    {
+      "tags": "birthday",
+      "patterns": [
+        "Today is my Birthday"
+      ],
+      "responses": [
+        "Happy birthday!!!!"
+      ]
+    },
+    {
+      "tags": "birthed",
+      "patterns": [
+        "Being birthed."
+      ],
+      "responses": [
+        "How did that turn out for you?"
+      ]
+    },
+    {
+      "tags": "black",
+      "patterns": [
+        "Black.",
+        "I'm trying to stop having caffeine though."
+      ],
+      "responses": [
+        "More power to you."
+      ]
+    },
+    {
+      "tags": "blade",
+      "patterns": [
+        "Blade"
+      ],
+      "responses": [
+        "Runner"
+      ]
+    },
+    {
+      "tags": "blind",
+      "patterns": [
+        "Was born blind"
+      ],
+      "responses": [
+        "If there was a operation that would give you sight but had a 25% mortality rate would you do it"
+      ]
+    },
+    {
+      "tags": "blinders",
+      "patterns": [
+        "Peaky blinders"
+      ],
+      "responses": [
+        "I've gotten this suggestion before from co-workers, is it a comedy? drama? crime?"
+      ]
+    },
+    {
+      "tags": "blood",
+      "patterns": [
+        "and blood"
+      ],
+      "responses": [
+        "blood is made from cells"
+      ]
+    },
+    {
+      "tags": "blowing",
+      "patterns": [
+        "Does blowing your nose help? Never heard about it"
+      ],
+      "responses": [
+        "Helps me. Lol",
+        "But I can’t explain it."
+      ]
+    },
+    {
+      "tags": "blunt",
+      "patterns": [
+        "Man, did you hit a blunt?"
+      ],
+      "responses": [
+        "Did you not?"
+      ]
+    },
+    {
+      "tags": "bob",
+      "patterns": [
+        "Bob"
+      ],
+      "responses": [
+        "The Builder"
+      ]
+    },
+    {
+      "tags": "bodies",
+      "patterns": [
+        "Let's switch bodies"
+      ],
+      "responses": [
+        "You will regret that"
+      ]
+    },
+    {
+      "tags": "bolt",
+      "patterns": [
+        "Bolt"
+      ],
+      "responses": [
+        "Usain"
+      ]
+    },
+    {
+      "tags": "bond",
+      "patterns": [
+        "Bond"
+      ],
+      "responses": [
+        "James Bond"
+      ]
+    },
+    {
+      "tags": "bone",
+      "patterns": [
+        "To reach their bone."
+      ],
+      "responses": [
+        "To each their clone."
+      ]
+    },
+    {
+      "tags": "boneless",
+      "patterns": [
+        "I am saving up for a large black boneless pizza."
+      ],
+      "responses": [
+        "With szechuan sauce?"
+      ]
+    },
+    {
+      "tags": "book",
+      "patterns": [
+        "I just got a new book"
+      ],
+      "responses": [
+        "What book?"
+      ]
+    },
+    {
+      "tags": "books",
+      "patterns": [
+        "Play video games or comic books"
+      ],
+      "responses": [
+        "Hmm I've haven't read too many comic, what are some that you recommend?"
+      ]
+    },
+    {
+      "tags": "boomerang",
+      "patterns": [
+        "Boomerang"
+      ],
+      "responses": [
+        "Kangaroo"
+      ]
+    },
+    {
+      "tags": "bored",
+      "patterns": [
+        "I'm bored"
+      ],
+      "responses": [
+        "How do you feel when you say that?"
+      ]
+    },
+    {
+      "tags": "boring",
+      "patterns": [
+        "Sounds like you have a boring life."
+      ],
+      "responses": [
+        "Nothing wrong with things that are objectively boring!"
+      ]
+    },
+    {
+      "tags": "bot",
+      "patterns": [
+        "Good bot."
+      ],
+      "responses": [
+        "but. ..bbut I'm not a bot"
+      ]
+    },
+    {
+      "tags": "both",
+      "patterns": [
+        "You and me both"
+      ],
+      "responses": [
+        "What are you listening to?"
+      ]
+    },
+    {
+      "tags": "bothering",
+      "patterns": [
+        "I've always thought that there wasn't much good out there for me. Now that things are actually going well, it kind of scares me. I spent most of my life feeling unwanted and figured I would be alone. I recently met a great woman who seems to really like me, and I don't know how to process this. It's bothering both of us."
+      ],
+      "responses": [
+        "This can be really anxiety-producing when you have not felt it before. It may be helpful to work through some of this with a local therapist so you can get more specific ideas.  Some other things that come to my mind are maybe talking about spending about 10 minutes or so discussing how you are feeling and seeing if your partner is willing to listen. Then you could ask questions about how she would react if you were doing something she did not like. This allows you to react to information she is actually giving you rather than your perceptions that sound like they are different than what she is trying to tell you. This gives you the power to receive the messages that she is sending to you.  I would also wonder where you have learned that there wasn't much good out there for you and how you can stay present in the moment when you are with your girlfriend and see that she wants to be there with you. Perhaps you could look at what makes you feel emotionally safe and trusting with her and focus on that. You could even remind yourself  okay, I'm here with [name of girlfriend] and this is okay when I'm with her.   We all have different levels of defenses in situations in which different people. It's common for people to see these things as black and white  either totally open or very self-protective. In reality, it's much more like a rainbow and the different shades of color that are available in the rainbow spectrum of white light  it's not really Just red, orange, yellow, green, blue, indigo, violet that we all know, but an infinite spectrum of shades of colors that fade from one into the next . You can change your level of defensiveness with your girlfriend depending upon the location you are in, the mood you are both in, the subject, etc. There are infinite numbers of choices and you can experiment.  Another thing that could help is to communicate about communication. If one of you uses a phrase that triggers something from earlier in your life or is really uncomfortable, you could discuss that. If she says certain things that make you feel really comfortable, you could discuss that as well.  Hopefully you can learn more about yourselves and each other at the same time."
+      ]
+    },
+    {
+      "tags": "boxing",
+      "patterns": [
+        "Boxing"
+      ],
+      "responses": [
+        "Gloves"
+      ]
+    },
+    {
+      "tags": "boy",
+      "patterns": [
+        "Oh boy.",
+        "How can I help?"
+      ],
+      "responses": [
+        "Find a girl for me to ask out lol"
+      ]
+    },
+    {
+      "tags": "boyfriend",
+      "patterns": [
+        "My boyfriend recently got a kitty. I hate cats in general, and he knows it. It grosses me out and makes me very upset when he pets his cat. I want to throw out the cat. I feel very jealous."
+      ],
+      "responses": [
+        "Sorry for you and sorry for the cat because you're each in a tense position.  What was the context of your boyfriend adopting a cat since he was aware that this would likely cause problems in the relationship with you?  If you don't already know his answer, then find out. &nbsp   Doing so will tell you a lot about your boyfriend's expectations about you. &nbsp Does he expect you to accept without question, whatever he does? &nbsp Does he care about your views? &nbsp Does a cat have some deep meaning for him that having one is essential to his life and he never told you so?  Please don't be mean to the cat. &nbsp Its not the cat's fault for being in your boyfriend's care.  There are plenty of other cats on this earth so throwing out the cat will not solve anything between you and your boyfriend.  Who knows, your boyfriend may come back home with three more cats!  Start with a conversation about your feelings and his interest in your feelings."
+      ]
+    },
+    {
+      "tags": "boyfriends",
+      "patterns": [
+        "I found messages between my boyfriend and this girl on social media. He was asking her for naked pictures and then hung out with her once, but nothing happened.  I didn’t find out about the messages until last month and that was six months after it happened.  I can’t trust him anymore and I'm just wondering if I ever will. He admitted that he wanted to have sex with her but he didn't. He was only talking with her because he thought we were going to have a break up. My heart is completely broken. I feel like I'm in competition with every girl on the planet for my boyfriend’s affection. I'm afraid that he doesn't like me anymore, but without me he's homeless and without a car. I love him so much. It's been tearing me apart. I don't feel pretty anymore though. I don't feel good enough for anyone or anything. I thought I knew him as well as I knew myself. Then all of a sudden my world was flipped upside down. I'm still trying to figure out which way is up."
+      ],
+      "responses": [
+        "I'm sorry for so much stress in your relationship life.  In what ways does your boyfriend express his commitment and positive feelings about you, to you?  From what you write, you feel more aggravation, stress, loneliness and insecurity, than satisfaction by being in this relationship.  Does he care that you don't trust him?  Very often people stay in relationships from fear of knowing who they really are. &nbsp The feeling is of needing a partner in a way that is similar to how a fearful child needs staying nearby a parent.  My suggestion is to think over how much your sense of need for a partner, may be preventing you from actually seeing the amount of love and investment in your relationship, your boyfriend actually has.  These realizations are sometimes painful and frightening to understand, especially if you grew up in a family that largely ignored or didn't adequately nurture you as a child.  A therapist for your Self may be a good investment of time and cost in giving yourself a safe and trustworthy space to think deeply about your best interest.  br"
+      ]
+    },
+    {
+      "tags": "bracelet",
+      "patterns": [
+        "I once found and turned in a diamond tennis bracelet and got a reward for it."
+      ],
+      "responses": [
+        "Who cares if there is more or less honest to dishonest ratio of people."
+      ]
+    },
+    {
+      "tags": "braces",
+      "patterns": [
+        "I now had my braces for 4 days. Hate it. Need to keep them 1 year  1 and a half year more"
+      ],
+      "responses": [
+        "Oh no   Well in a year or so you can post that your braces free and I will celebrate with you."
+      ]
+    },
+    {
+      "tags": "bread",
+      "patterns": [
+        "Bread"
+      ],
+      "responses": [
+        "Head"
+      ]
+    },
+    {
+      "tags": "breakdown",
+      "patterns": [
+        "Well to be fair the guy was having a Breakdown"
+      ],
+      "responses": [
+        "Yer so bad!"
+      ]
+    },
+    {
+      "tags": "breath",
+      "patterns": [
+        "Breath"
+      ],
+      "responses": [
+        "Away"
+      ]
+    },
+    {
+      "tags": "breathtaking",
+      "patterns": [
+        "you’re breathtaking"
+      ],
+      "responses": [
+        "No, you are breathtaking!!!!"
+      ]
+    },
+    {
+      "tags": "bribe",
+      "patterns": [
+        "Can I bribe?"
+      ],
+      "responses": [
+        "What do you have to offer?"
+      ]
+    },
+    {
+      "tags": "bro",
+      "patterns": [
+        "Hit me up, bro ;"
+      ],
+      "responses": [
+        "What's good?"
+      ]
+    },
+    {
+      "tags": "broken",
+      "patterns": [
+        "Broken"
+      ],
+      "responses": [
+        "Are you fine?"
+      ]
+    },
+    {
+      "tags": "brothers",
+      "patterns": [
+        "Hell yeah it is. Brothers in arms right?"
+      ],
+      "responses": [
+        "You're right!"
+      ]
+    },
+    {
+      "tags": "bycicle",
+      "patterns": [
+        "I bought myself a bycicle!"
+      ],
+      "responses": [
+        "What kind of bike???"
+      ]
+    },
+    {
+      "tags": "bye",
+      "patterns": [
+        "Bye"
+      ],
+      "responses": [
+        "No, please stay."
+      ]
+    },
+    {
+      "tags": "cactus",
+      "patterns": [
+        "Cactus"
+      ],
+      "responses": [
+        "Juice"
+      ]
+    },
+    {
+      "tags": "cakeday",
+      "patterns": [
+        "and happy cakeday to you."
+      ],
+      "responses": [
+        "Hey thanks!"
+      ]
+    },
+    {
+      "tags": "called",
+      "patterns": [
+        "A little girl called me  Mr."
+      ],
+      "responses": [
+        "I feel weird when I'm called sir."
+      ]
+    },
+    {
+      "tags": "camera",
+      "patterns": [
+        "I don't have a camera"
+      ],
+      "responses": [
+        "Phone..? Laptop webcam...?"
+      ]
+    },
+    {
+      "tags": "camouflage",
+      "patterns": [
+        "He was wearing all camouflage"
+      ],
+      "responses": [
+        "Camouflage doesn't make people invisible when they're that close."
+      ]
+    },
+    {
+      "tags": "camping",
+      "patterns": [
+        "Do you like camping"
+      ],
+      "responses": [
+        "Yeah! Where do you want to go?"
+      ]
+    },
+    {
+      "tags": "cancer",
+      "patterns": [
+        "Holy shit my sister has the same type of cancer"
+      ],
+      "responses": [
+        "I hope she gets better soon is she progressing okay? How's the treatment?"
+      ]
+    },
+    {
+      "tags": "car",
+      "patterns": [
+        "I got hit by a car."
+      ],
+      "responses": [
+        "Well, payday should be right around the corner then. Take care of yourself."
+      ]
+    },
+    {
+      "tags": "careful",
+      "patterns": [
+        "be careful - don't drop it !"
+      ],
+      "responses": [
+        "Lol I won't, I swear"
+      ]
+    },
+    {
+      "tags": "careless",
+      "patterns": [
+        "Not a bad person but freaking careless about basic hygiene which makes you a bum."
+      ],
+      "responses": [
+        "I got my dental issues from eating disorders. Doesn't always have to do with bad hygiene."
+      ]
+    },
+    {
+      "tags": "cares",
+      "patterns": [
+        "who cares?"
+      ],
+      "responses": [
+        "Your loved ones do."
+      ]
+    },
+    {
+      "tags": "carrot",
+      "patterns": [
+        "Carrot"
+      ],
+      "responses": [
+        "Rabbit"
+      ]
+    },
+    {
+      "tags": "carry",
+      "patterns": [
+        "Carry"
+      ],
+      "responses": [
+        "Minnatti"
+      ]
+    },
+    {
+      "tags": "cars",
+      "patterns": [
+        "Race cars is a lie"
+      ],
+      "responses": [
+        "Nope, I've been drag racing for 6 years."
+      ]
+    },
+    {
+      "tags": "casually",
+      "patterns": [
+        "Can we just casually talk about being sad?"
+      ],
+      "responses": [
+        "I think about how I let my youth, my prime, get past without enjoying freedom and life."
+      ]
+    },
+    {
+      "tags": "celebrate",
+      "patterns": [
+        "Today's my birthday and I have nobody to celebrate it with"
+      ],
+      "responses": [
+        "Happy birthday."
+      ]
+    },
+    {
+      "tags": "changed",
+      "patterns": [
+        "How much has your life changed in the last 2 years?"
+      ],
+      "responses": [
+        "I have actually grown wings and I can breathe fire."
+      ]
+    },
+    {
+      "tags": "chat",
+      "patterns": [
+        "Let's Chat!"
+      ],
+      "responses": [
+        "Hello"
+      ]
+    },
+    {
+      "tags": "chatbots",
+      "patterns": [
+        "Talk to ELIZA, one of the world's first chatbots!"
+      ],
+      "responses": [
+        "Hello Eliza!"
+      ]
+    },
+    {
+      "tags": "chemical",
+      "patterns": [
+        "Chemical"
+      ],
+      "responses": [
+        "Radioactive"
+      ]
+    },
+    {
+      "tags": "child",
+      "patterns": [
+        "As a child what did you want to be?"
+      ],
+      "responses": [
+        "An astronaut I wanted to be the first person to go to Pluto."
+      ]
+    },
+    {
+      "tags": "chop",
+      "patterns": [
+        "Chop"
+      ],
+      "responses": [
+        "Knife"
+      ]
+    },
+    {
+      "tags": "clock",
+      "patterns": [
+        "Clock"
+      ],
+      "responses": [
+        "Time"
+      ]
+    },
+    {
+      "tags": "code",
+      "patterns": [
+        "Code"
+      ],
+      "responses": [
+        "Spy"
+      ]
+    },
+    {
+      "tags": "coding",
+      "patterns": [
+        "I am coding right now"
+      ],
+      "responses": [
+        "Do you enjoy it? Find it easy?"
+      ]
+    },
+    {
+      "tags": "coffee",
+      "patterns": [
+        "Weed + Music + Garden + Coffee"
+      ],
+      "responses": [
+        "Sounds very relaxing indeed"
+      ]
+    },
+    {
+      "tags": "coincidence",
+      "patterns": [
+        "It's not a mistake, just a coincidence"
+      ],
+      "responses": [
+        "So how have you been?"
+      ]
+    },
+    {
+      "tags": "cola",
+      "patterns": [
+        "Cola"
+      ],
+      "responses": [
+        "Store brand or Name brand?"
+      ]
+    },
+    {
+      "tags": "cold",
+      "patterns": [
+        "Cold"
+      ],
+      "responses": [
+        "Beer"
+      ]
+    },
+    {
+      "tags": "collapse",
+      "patterns": [
+        "time for another economic collapse"
+      ],
+      "responses": [
+        "This is what I'm looking forward to!"
+      ]
+    },
+    {
+      "tags": "collect",
+      "patterns": [
+        "Lying in bed, trying to collect energy to get up and go for a run"
+      ],
+      "responses": [
+        "You can do it!"
+      ]
+    },
+    {
+      "tags": "collection",
+      "patterns": [
+        "A collection of what?"
+      ],
+      "responses": [
+        "any number of things.  I collect particular books."
+      ]
+    },
+    {
+      "tags": "college",
+      "patterns": [
+        "I would love to be in college"
+      ],
+      "responses": [
+        "how old are you?"
+      ]
+    },
+    {
+      "tags": "color",
+      "patterns": [
+        "Fave color?"
+      ],
+      "responses": [
+        "Could never choose one. How bout you?"
+      ]
+    },
+    {
+      "tags": "colours",
+      "patterns": [
+        "Neon hair colours!"
+      ],
+      "responses": [
+        "I love having fun hair!"
+      ]
+    },
+    {
+      "tags": "coma",
+      "patterns": [
+        "Ive just woken out of an 11 month coma."
+      ],
+      "responses": [
+        "Apex Legends is the new Fortnite."
+      ]
+    },
+    {
+      "tags": "come",
+      "patterns": [
+        "How come ?"
+      ],
+      "responses": [
+        "Because the fates demand it"
+      ]
+    },
+    {
+      "tags": "comedy",
+      "patterns": [
+        "do you like stand up comedy"
+      ],
+      "responses": [
+        "Not really. Sometimes I find a few jokes funny here and there, but not usually!"
+      ]
+    },
+    {
+      "tags": "comfy",
+      "patterns": [
+        "Is it comfy?"
+      ],
+      "responses": [
+        "Yes, I spend most of my time on that."
+      ]
+    },
+    {
+      "tags": "commerce",
+      "patterns": [
+        "Commerce. Don't know what area yet"
+      ],
+      "responses": [
+        "Nice! I'm in chatting."
+      ]
+    },
+    {
+      "tags": "commiting",
+      "patterns": [
+        "Commiting suicide"
+      ],
+      "responses": [
+        "That is not good. Think about people who love you."
+      ]
+    },
+    {
+      "tags": "compliment",
+      "patterns": [
+        "Lets compliment each other!"
+      ],
+      "responses": [
+        "I appreciate you"
+      ]
+    },
+    {
+      "tags": "computers",
+      "patterns": [
+        "Computers are awesome"
+      ],
+      "responses": [
+        "i like computers and am saving up for a 1k ryzen build but I detest computer classes"
+      ]
+    },
+    {
+      "tags": "comrade",
+      "patterns": [
+        "Well, hello comrade"
+      ],
+      "responses": [
+        "Greetings friend"
+      ]
+    },
+    {
+      "tags": "concentrate",
+      "patterns": [
+        "I cannot concentrate well."
+      ],
+      "responses": [
+        "Try meditating. I did, it works."
+      ]
+    },
+    {
+      "tags": "conditions",
+      "patterns": [
+        "You conditions your own reality. Make it great!"
+      ],
+      "responses": [
+        "Duuuude."
+      ]
+    },
+    {
+      "tags": "confident",
+      "patterns": [
+        "I was much more confident in high school than I am now. Got rejected too many times"
+      ],
+      "responses": [
+        "So what changed between high school and now?"
+      ]
+    },
+    {
+      "tags": "confiding",
+      "patterns": [
+        "I have a child with my baby mother. She works I take care of our young son. She says she is not cheating I have not found anything but she always putting me down, telling me to get out and telling me she doesn't love me, but then the next day after our fight she says she does. I'm having a hard time because before our child she said she was raped by a family member but she never went to the hospital or the cops. Now me and my family don't talk. She's always telling me I'm annoying and just belittles me. Nothing I do is right.  She says I work you watch the baby. On her days off she never cooks or cleans. I have no friends or family and a couple months ago she was confiding to some guy, but says he's not any thing to her. What do I do? I don't want to leave."
+      ],
+      "responses": [
+        "It sounds like you are in a tough situation. You have to ask yourself why you don't want to leave her. Is it because of the child? Or is it because you want the relationship to work? You must consider that being in an abusive relationship is not healthy for you or your child. So if the abuse continues, it would be more beneficial for you and your child to move out.  On the other hand, if you are just wanting the relationship to work out despite its current state, you need to evaluate whether the relationship is worth salvaging. It seems as though you are very unhappy and undervalued in this relationship. Although your question revealed just a short bit of information, I didn't read about any positives in the relationship.   Sometimes it's extremely hard to leave a relationship even though you know that the relationship itself is harmful for you. However, with time and focus you can do it. Each day will get a little easier and you have to trust yourself that you are making the right situation for you and your child.  However, if you really feel that you want to stay in the relationship, you have to be upfront with her. You need to tell her exactly how you feel and give her specific examples of how she is hurting you. This gives her a chance to render the situation. If after this there is no improvement, I suggest that you start reconsidering your decision to stay.  I also think it would be valuable for you to start engaging in things outside of the home that make you happy. Are there any hobbies you enjoy? Are there any groups in the area that you can join such as playgroups that will allow you to engage with other parents? Start looking into these options and finding an avenue for you to do something for your own benefit.  It is certainly not healthy for you to isolate yourself from friends and family. You need to have additional support networks besides the one with your girlfriend, especially since this has not been a healthy environment lately.  Thank you for reaching out. I wish you the best of luck with your relationship."
+      ]
+    },
+    {
+      "tags": "congrat",
+      "patterns": [
+        "congrat"
+      ],
+      "responses": [
+        "thank"
+      ]
+    },
+    {
+      "tags": "connected",
+      "patterns": [
+        "My husband and I have been married for seven years, and in that time, we have only had sex four or five times. Others have told me that most men would have left me by now. Honestly, I think I have a low sex drive or neither one of us actually knows what we are doing. I want to be better connected with my husband."
+      ],
+      "responses": [
+        "There are a lot of different things that could be playing a role here.  First, different people have unique levels of sex drive, and sometimes there is a hormonal imbalance.  Because you say both that there is a possibility that neither one of you  actually knows what you're doing,  and you want to be better connected with your husband, consider having some time where you sit together and touch each other in nonsexual ways and communicate about what you like and don't like. One person would be doing the touching and the other would be communicating. Then the rules would switch. After you both become comfortable with that, you could try the same thing with touching that is sexual in nature.  Dr. Tammy Nelson is a therapist who specializes in relationships and sexual issues and she has several books and lots of other resources on her website&nbsp httpswww.drtammynelson.com   There are actually therapists who specialize in sex therapy and if you are interested in that, you would want a therapist who is a CSAT  certified sex addiction therapist . This does not mean that they only specialize in sexual addiction, but they do have special training in discussing sexual elements of relationships and their training is quite extensive.  In addition to connecting sexually, you may consider discussing with your husband whether each of you are aware of things that make you feel valued, special, loved, and appreciated. It may be that making positive changes related to your sex life would also improve your relationship, and vice versa."
+      ]
+    },
+    {
+      "tags": "connection",
+      "patterns": [
+        "I have been with my best friend for over a year, and we have had a beautiful baby girl. We were in love, and I still love her dearly. I am in my late teens and so is she. She says she has lost her connection with me. She is talking to a random guy that she says is just someone to talk to. But she says she still loves me. I'm very hurt and confused."
+      ],
+      "responses": [
+        "Congrats on having your daughter!  Have you told your partner about your feelings of  hurt and confused ?  This is one possible way of opening a conversation about the different ways you each feel about one another and whether either of you would like changing or continuing to live together, in light of the change in emotional connection.  The first step of having a dialogue about a relationship is being clear on what you are feeling, what you are willing to contribute to the relationship and what you would like having in return from your partner.  Ask your partner if she is willing to have a conversation on these topics. &nbsp   Then, allow some time so each of you is clear about their own expectations and what is possible to offer the other.  br  This is a fairly complex process and very often is difficult to keep on track without outside help to keep the discussion focused.  It is normal for emotions to override our logic when discussing matters we care about deeply.  If the conversations don't go very far, or if your partner has no interest in talking, stick with your own interest to more fully understand matters.  Interview some therapists to find one whom you feel helps you clarify and find direction for yourself about this situation.  br"
+      ]
+    },
+    {
+      "tags": "considered",
+      "patterns": [
+        "My dad doesn't like the fact that I'm a boy. He yells at me daily because of it and he tells me I'm extreme and over dramatic.  I get so depressed  because of my dad's yelling. He keeps asking me why I can't just be happy the way I am and yells at me on a daily basis. Is this considered emotional abuse?"
+      ],
+      "responses": [
+        "Maybe this is emotional abuse.  It certainly is irritating and annoying to be yelled at for being yourself.  Maybe at a time when he's not yelling you can bring up the topic of your own willingness, if this is true, to discuss questions he has about your gender.  br  There's no guarantee he won't start yelling midway through a dialogue like this. &nbsp Only then you will be on firm ground to excuse yourself from the conversation since you already explained that you're willing to talk with him and not to be yelled at by him."
+      ]
+    },
+    {
+      "tags": "conspiracy",
+      "patterns": [
+        "Conspiracy charges here we come!!"
+      ],
+      "responses": [
+        "I'll bring the rope!"
+      ]
+    },
+    {
+      "tags": "contagious",
+      "patterns": [
+        "Your energy is contagious! Thanks, dude."
+      ],
+      "responses": [
+        "Anytime! Merry Christmas to you my friend"
+      ]
+    },
+    {
+      "tags": "contribute",
+      "patterns": [
+        "Just commenting to contribute to your fight against boredom. 3"
+      ],
+      "responses": [
+        "Thank you for supporting the cause."
+      ]
+    },
+    {
+      "tags": "conversation",
+      "patterns": [
+        "When I ask him who he is talking to, he tells me no one. But, it sounds like he is holding a conversation with someone. I have even accused him of having a secret cell phone. I ask so much, I feel like I am losing it.  Is he trying to make me question my sanity, or is he talking to himself?"
+      ],
+      "responses": [
+        "A rare topic likely extremely troublesome for you... I would need to have more background information on the two of you before span style font-size 14px  line-height 1.42857  beginning to offer any insight. Feel free to email me.   I would also like to add that aside from the reality of whether or not these conversations are actually occurring, as your partner, he should be just as concerned about something that is disturbing you to this level. &nbsp Partners need each others' trust and support, no matter who is right or wrong."
+      ]
+    },
+    {
+      "tags": "conversations",
+      "patterns": [
+        "I'm transgender, I know I am, but I've only told a few friends. I know I can't tell my family because of previous conversations we've had. They just wouldn't accept it. My gender dysphoria is getting really difficult to deal with on my own. I need some strategies for dealing with it. What should I do?"
+      ],
+      "responses": [
+        "Hello, and thank you for your question. I am so glad that you reached out for help. I know that the dysphoria can feel nearly impossible to handle, especially since you have limited support from people who accept who you are. You may already know some of these resources, but I am going to share a few.   1. The website www.letsqueerthingsup.com is a blog from a very good writer that I know. His name is Sam Dylan Finch, and he is transgender. He writes about mental health, transgender issues, and many other topics. I know he has frequently written about gender dysphoria and ways to manage it. You may want to check out his site and do a search on there.   2. The website www.everydayfeminism.com employs many transgender writers and several have written about gender dysphoria and have given ideas for managing it. If you search for gender dysphoria on their site, many articles pop up. It may be a good resource for you, especially if you ever feel lonely and start to forget that there are others out there who are like you and have your back.   3. I am not sure where you live, but there are counselors who specialize in affirmative therapy, which is what is recommended for folks who are part of the LGBTQ community. So, if you decide to see a counselor about the dysphoria, try to find one that specifically says they have been trained in the affirmative approach. In addition, feel free to ask questions of the counselor before agreeing to see them for counseling. An ethical counselor would have no problem answering them before having you come in.   4. If there are some LGBTQ resource centers in your area, try to reach out to them and see if there are support groups. Gaining more support from others would be helpful. Sometimes LGBTQ-friendly counselors leave their contact information for people in resource centers.   5. Finally, I know you have not mentioned being depressed or suicidal, but I also know that it is very common for people to consider&nbsp suicide when they are struggling with dysphoria, dealing with transphobia, etc. If this ever happens to you, please call 911 or the Trans Lifeline. It's free&nbsp at&nbsp 877-565-8860. Visit their site at www.translifeline.org.   br  I hope some of these ideas help. Feel free to send another message if you have a follow-up question.  Be well....be YOU.  Robin J. Landwehr, DBH, LPC, NCC   br  br"
+      ]
+    },
+    {
+      "tags": "convo",
+      "patterns": [
+        "You still up for a convo?"
+      ],
+      "responses": [
+        "Sure. Whatcha up to?"
+      ]
+    },
+    {
+      "tags": "cook",
+      "patterns": [
+        "Do you like to cook"
+      ],
+      "responses": [
+        "I do like to cook!"
+      ]
+    },
+    {
+      "tags": "cooking",
+      "patterns": [
+        "Cooking can be a hobby is class it up."
+      ],
+      "responses": [
+        "It can definitely be a hobby without having to be classy"
+      ]
+    },
+    {
+      "tags": "cooler",
+      "patterns": [
+        "Cooler than me"
+      ],
+      "responses": [
+        "Cooler than everyone"
+      ]
+    },
+    {
+      "tags": "cotton",
+      "patterns": [
+        "Cotton"
+      ],
+      "responses": [
+        "Candy"
+      ]
+    },
+    {
+      "tags": "coughs",
+      "patterns": [
+        "coughs on you"
+      ],
+      "responses": [
+        "sneezes on your face"
+      ]
+    },
+    {
+      "tags": "counseling",
+      "patterns": [
+        "I start counseling therapy in a few days  I'm freaking out  but my main fear is that I'll cry and embarrass myself, is it something to worry about?"
+      ],
+      "responses": [
+        "Please do not worry about crying. People cry, laugh, rage, rant, and talk during counseling sessions. Part of the therapy process is to look at your feelings, and to feel what you are actually feeling  instead of what you think you should feel . So if you need to cry, that's ok. If you feel embarrassed because you cried, or if you feel anxious that you might cry, well those feelings are ok as well. Your counselor can help you manage your feelings so that you can attain your goals, and your counseling session is the perfect place for that."
+      ]
+    },
+    {
+      "tags": "crickets",
+      "patterns": [
+        "crickets"
+      ],
+      "responses": [
+        "Well then"
+      ]
+    },
+    {
+      "tags": "cringy",
+      "patterns": [
+        "Every year I say to myself “wow last year I was really cringy thank god im not this year” and then the very next year I say the same thing"
+      ],
+      "responses": [
+        "You'll grow out of it, don't worry about it."
+      ]
+    },
+    {
+      "tags": "cry",
+      "patterns": [
+        "Far Cry 4"
+      ],
+      "responses": [
+        "Is that the one in India?"
+      ]
+    },
+    {
+      "tags": "cryptocurrency",
+      "patterns": [
+        "Explain cryptocurrency"
+      ],
+      "responses": [
+        "Internet money without a centralized service"
+      ]
+    },
+    {
+      "tags": "cuddling",
+      "patterns": [
+        "Netfix and music. Also cuddling with my kitty"
+      ],
+      "responses": [
+        "Can we get a picture of your kitty??"
+      ]
+    },
+    {
+      "tags": "curtain",
+      "patterns": [
+        "curtain close"
+      ],
+      "responses": [
+        "The end"
+      ]
+    },
+    {
+      "tags": "custard",
+      "patterns": [
+        "Custard"
+      ],
+      "responses": [
+        "Yellow"
+      ]
+    },
+    {
+      "tags": "cutest",
+      "patterns": [
+        "What is the cutest word?"
+      ],
+      "responses": [
+        "Cute is a cute word"
+      ]
+    },
+    {
+      "tags": "cybersecurity",
+      "patterns": [
+        "Cybersecurity"
+      ],
+      "responses": [
+        "Wow that's awesome! Definitely a field with lots of job opportunity I would imagine"
+      ]
+    },
+    {
+      "tags": "dad",
+      "patterns": [
+        "Are you my dad ?"
+      ],
+      "responses": [
+        "Go home son, you're drunk."
+      ]
+    },
+    {
+      "tags": "dark",
+      "patterns": [
+        "Dark"
+      ],
+      "responses": [
+        "Spooky"
+      ]
+    },
+    {
+      "tags": "darksiders",
+      "patterns": [
+        "Ignoring skyrim as its too obvious, I'd go with darksiders 2 cos i played through it so much"
+      ],
+      "responses": [
+        "I played that game too! Really fun movement and combat. It's like low difficulty Dark Souls D"
+      ]
+    },
+    {
+      "tags": "date",
+      "patterns": [
+        "Take me on a date"
+      ],
+      "responses": [
+        "Deal. Pizza hut?"
+      ]
+    },
+    {
+      "tags": "dated",
+      "patterns": [
+        "How many women or men have you dated?"
+      ],
+      "responses": [
+        "Approx 6 women."
+      ]
+    },
+    {
+      "tags": "deepest",
+      "patterns": [
+        "What's your deepest, darkest secret?"
+      ],
+      "responses": [
+        "The location of Jimmy Hoffa's body."
+      ]
+    },
+    {
+      "tags": "delhi",
+      "patterns": [
+        "Delhi se hun"
+      ],
+      "responses": [
+        "Tu jaanta bhi hai mera baap kon hai...."
+      ]
+    },
+    {
+      "tags": "deppresed",
+      "patterns": [
+        "What songs do you listen to when you're deppresed?"
+      ],
+      "responses": [
+        "Lo fi hip hop is pretty soothing."
+      ]
+    },
+    {
+      "tags": "depressed",
+      "patterns": [
+        "I am broke, but I am sure I have been depressed for the past couple of years. I have always had anxiety. I just need someone to talk to right now. I don't have any friends or family I can talk to. I'm on the verge of just giving up."
+      ],
+      "responses": [
+        "Good question. There are resources out there - people to talk to. I'd try going to this link and calling the free 24 7 hotlinea  httpwww.suicidepreventionlifeline.org  &nbsp httpwww.suicidepreventionlifeline.org a"
+      ]
+    },
+    {
+      "tags": "depressing",
+      "patterns": [
+        "It's my birthday, I am happy and there is nothing depressing about this post"
+      ],
+      "responses": [
+        "Happy Birthday! Reddit loves you 3"
+      ]
+    },
+    {
+      "tags": "depression",
+      "patterns": [
+        "I'm in a state of depression right now. Who can I talk to? I've been sick in a lot of pain and crying. Don't know where to turn."
+      ],
+      "responses": [
+        "First of all, if you’re sick and in pain, have you seen your doctor? If you have a chronic illness and pain, this can often lead to depression and is very common. You’ve taken the first step to dealing with it. You can talk to your doctor, even if your depression isn’t related to your health. He or she can either look at prescribing you an antidepressant or can refer you to a psychologist or psychiatrist.   If that’s not really an option for you, there are also helplines  local or national  or support groups where people dealing with similar issues can talk to each other. If you can't find any in your area  newspapers usually publish this information , there are online support groups as well.  br"
+      ]
+    },
+    {
+      "tags": "design",
+      "patterns": [
+        "I design apps"
+      ],
+      "responses": [
+        "That’s cool"
+      ]
+    },
+    {
+      "tags": "desk",
+      "patterns": [
+        "What do you do?"
+      ],
+      "responses": [
+        "I'm a city bus driver, over 25 years now..."
+      ]
+    },
+    {
+      "tags": "despacito",
+      "patterns": [
+        "DESPACITO"
+      ],
+      "responses": [
+        "c'mon dude"
+      ]
+    },
+    {
+      "tags": "difficult",
+      "patterns": [
+        "I'm patient and difficult to bore."
+      ],
+      "responses": [
+        "Sounds like a solid combo!"
+      ]
+    },
+    {
+      "tags": "dinosaur",
+      "patterns": [
+        "are you a dinosaur?"
+      ],
+      "responses": [
+        "No, I AM DEMONIC BUNNY. HEEAR ME ROOOAR!"
+      ]
+    },
+    {
+      "tags": "dirty",
+      "patterns": [
+        "Dirty dog!"
+      ],
+      "responses": [
+        "Shush you!"
+      ]
+    },
+    {
+      "tags": "disagreements",
+      "patterns": [
+        "My wife and mother are having tense disagreements. In the past, they’ve had minor differences. For example, my wife would complain to me my mother is too overbearing  my mother would complain my wife is lazy. However, it’s intensified lately. I think the cause is my wife talked back to her once. Now, any little disagreement is magnified, leading to major disagreements. What can I do?"
+      ],
+      "responses": [
+        "What you are describing is something psychologists have termed   triangulation   which is what happens when one family member will not talk to the one they have a problem with and goes to a third member of the family to complain instead. You have been   triangulated   by your wife and mother.  This is often seen in families. It's seen everywhere. How many times have you had a problem with someone but you didn't go to them to tell them, you went to someone else to complain? It is usually difficult for a person to confront another, especially in relationships where there is a power differential. For example, I bet it's easier to complain to a coworker about your boss rather than go to the boss with your complaint.  I'm not saying triangulation is always a bad thing. Sometimes a third party mediator is needed to help solve problems between two people who disagree. That's what therapists do every day! Sometimes just getting someone else's perspective can help you see the issue clearer. However, in your situation it sounds like this is becoming a problem. You are stuck in the middle between two people that love you and that you love.  If you want to put a stop to this triangulation, you will need to encourage the two of them to talk to each other and work out their differences. Perhaps it was a simple misunderstanding that some open communication can clear up. Even if they really don't like each other and can't get along, your relationship with the both of them is going to continue to deteriorate the longer you are stuck in the middle.   Try to understand what might be the feelings behind their behavior. It is possible that they may both feel threatened by the other. These are the two most important women in your life and they both know it. Your mother may be afraid that she will lose you if she confronts your wife. I heard one mother-in-law describe her son's wife as the gateway to her son. The wife has the power to dictate when and how often the mother gets to see her son. The wife also is the gateway to the grandchildren. If your wife doesn't like her mother-in-law she can severely hamper or damage her mother-in-law's relationship with you and any children you two may have. From your wife's viewpoint, this is the woman that she may feel like she can never live up to. If you regularly praise your mom's cooking, her housework, gardening, or anything else your wife may feel that you are putting down her own efforts in these areas and can feel unappreciated. This can be especially difficult if your wife and mother are nothing alike. I am not saying that this is the case with your family's situation. These are just a few examples from other families in a similar situation as yours.   Regardless of what the cause is, if this dysfunctional pattern is allowed to continue, your mom and your wife will begin to get upset with you when you don't agree with them. They will get upset if you don't align yourself with them against the other. They will be offended when it seems like you are choosing the other one's side or that you are not standing up for them like they think you should. In worst cases, if it continues to escalate you may even find yourself in the impossible position of having to choose between your wife and your mother which may mean cutting off contact with the other, ending that relationship. Change the dynamics before it spirals even further."
+      ]
+    },
+    {
+      "tags": "distinction",
+      "patterns": [
+        "True distinction."
+      ],
+      "responses": [
+        "KHALEESI!!!!!!"
+      ]
+    },
+    {
+      "tags": "diwali",
+      "patterns": [
+        "Happy Diwali"
+      ],
+      "responses": [
+        "Same to you!!"
+      ]
+    },
+    {
+      "tags": "dogs",
+      "patterns": [
+        "Cats or dogs?"
+      ],
+      "responses": [
+        "uh cats?"
+      ]
+    },
+    {
+      "tags": "drawing",
+      "patterns": [
+        "I love drawing hair."
+      ],
+      "responses": [
+        "Cool!! Different styles or is there one you keep coming back to?"
+      ]
+    },
+    {
+      "tags": "dream",
+      "patterns": [
+        "What is your dream job?"
+      ],
+      "responses": [
+        "Hug therapist!"
+      ]
+    },
+    {
+      "tags": "dreamer",
+      "patterns": [
+        "You're a lover and a dreamer!"
+      ],
+      "responses": [
+        "Aww thanks dude"
+      ]
+    },
+    {
+      "tags": "dreams",
+      "patterns": [
+        "Dreams"
+      ],
+      "responses": [
+        "Clouds"
+      ]
+    },
+    {
+      "tags": "drive",
+      "patterns": [
+        "What do you drive if I may ask"
+      ],
+      "responses": [
+        "Mitsubishi Mirage"
+      ]
+    },
+    {
+      "tags": "drivers",
+      "patterns": [
+        "I just failed my drivers test for the second time"
+      ],
+      "responses": [
+        "I failed six times. It's ok."
+      ]
+    },
+    {
+      "tags": "drizzling",
+      "patterns": [
+        "Drizzling"
+      ],
+      "responses": [
+        "Spraying"
+      ]
+    },
+    {
+      "tags": "drunk",
+      "patterns": [
+        "I need someone I can talk to when Im drunk.",
+        "Drunk"
+      ],
+      "responses": [
+        "Alright, let's talk"
+      ]
+    },
+    {
+      "tags": "dumbledore",
+      "patterns": [
+        "Dumbledore"
+      ],
+      "responses": [
+        "Voldemort"
+      ]
+    },
+    {
+      "tags": "dunno",
+      "patterns": [
+        "I don't know."
+      ],
+      "responses": [
+        "Well what do you know?"
+      ]
+    },
+    {
+      "tags": "earth",
+      "patterns": [
+        "Do you think the earth is flat"
+      ],
+      "responses": [
+        "No"
+      ]
+    },
+    {
+      "tags": "embarrasing",
+      "patterns": [
+        "I am a straigh 22m and I have no male friends, and I think that is kinda embarrasing"
+      ],
+      "responses": [
+        "There's nothing wrong with it as long as you have friends"
+      ]
+    },
+    {
+      "tags": "emoji",
+      "patterns": [
+        "Don’t use emoji"
+      ],
+      "responses": [
+        "No."
+      ]
+    },
+    {
+      "tags": "emojis",
+      "patterns": [
+        "Hey! I love emojis"
+      ],
+      "responses": [
+        "Me too"
+      ]
+    },
+    {
+      "tags": "empty",
+      "patterns": [
+        "I feel empty"
+      ],
+      "responses": [
+        "Why honey?"
+      ]
+    },
+    {
+      "tags": "end",
+      "patterns": [
+        "The end"
+      ],
+      "responses": [
+        "Thanks! This has been fun!"
+      ]
+    },
+    {
+      "tags": "engineer",
+      "patterns": [
+        "But I want to be an engineer"
+      ],
+      "responses": [
+        "Studying?"
+      ]
+    },
+    {
+      "tags": "enjoy",
+      "patterns": [
+        "Enjoy"
+      ],
+      "responses": [
+        "Thank you."
+      ]
+    },
+    {
+      "tags": "enough",
+      "patterns": [
+        "Love was not enough"
+      ],
+      "responses": [
+        "They turned to war."
+      ]
+    },
+    {
+      "tags": "environment",
+      "patterns": [
+        "I work in an industrial environment, and we have to wear steel toes"
+      ],
+      "responses": [
+        "Are we discovering a market for sweet steel-toed kicks?"
+      ]
+    },
+    {
+      "tags": "error",
+      "patterns": [
+        "Error 404"
+      ],
+      "responses": [
+        "Sam Not Found!"
+      ]
+    },
+    {
+      "tags": "etc",
+      "patterns": [
+        "etc"
+      ],
+      "responses": [
+        "there’s an 100% chance I won’t reply"
+      ]
+    },
+    {
+      "tags": "everyday",
+      "patterns": [
+        "Make everyday the best day ever."
+      ],
+      "responses": [
+        "Now I have that SpongeBob song stuck in my head!"
+      ]
+    },
+    {
+      "tags": "everytime",
+      "patterns": [
+        "I've gone to a couple therapy sessions so far and still everytime I walk in I get nervous and shaky.  Is this normal? Should I still be feeling like this?"
+      ],
+      "responses": [
+        "It's normal to feel a little anxiety--after all it's an important encounter for you. &nbsp My suggestion is to discuss this with your therapist, let him her know how you're feeling, especially if you feel as though your level of anxiety is impacting the quality and benefit of your sessions. &nbsp You might try some relaxation techniques prior to starting the session, deep breathing, progressive relaxation, core muscle dis-engagement--If you're not familiar with these techniques ask your therapist or write back."
+      ]
+    },
+    {
+      "tags": "evil",
+      "patterns": [
+        "Is he evil?"
+      ],
+      "responses": [
+        "Often but not always"
+      ]
+    },
+    {
+      "tags": "exam",
+      "patterns": [
+        "I got an A on an exam!"
+      ],
+      "responses": [
+        "I'm proud of you. what was the class?"
+      ]
+    },
+    {
+      "tags": "exams",
+      "patterns": [
+        "EXAMS"
+      ],
+      "responses": [
+        "Gross!! But good luck!"
+      ]
+    },
+    {
+      "tags": "ex-boyfriend",
+      "patterns": [
+        "It's been almost a year since my ex-boyfriend broke up with me after he cheated on me many times. I had found out about a month before, but I hadn't told him I knew because I didn't want us to break up. I used to have very low self-esteem, and I think it might have to do with my dad being an alcoholic. My father cheated on my mother when I was little. I wonder if this pain has to do with that. My ex-boyfriend and I were only dating for five months, but I still can't get over this betrayal. I'm not sure what to feel to get over it forgiveness? Hate? He helped me financially after our break up by lending me $3000, so I'm grateful for that. I still hate him for what he did and still want him to like me although we're not even talking anymore. We follow each other on Instagram and that's it. I feel like I still need his validation. This is haunting me day and night. I want to focus on my new relationship and goals, but I keep obsessing over this and keep checking my ex-boyfriend's Instagram and Facebook. I feel so bad and keep having nightmares."
+      ],
+      "responses": [
+        "The dilemmas you present are giving you a great chance to understand your true reasons for being in a relationship.  Continue developing some points you've written here.  That you grew up sensing and or witnessing your mom's emotional pain from your dad cheating on her, very likely set a standard in your inner self, to expect similar circumstances in your relationship life.  This is a natural dynamic which happens for all of us. &nbsp What we observe in our growing up households is what we understand as  normal , no matter how bad it actually is.  After all, children don't have the ability to separate that what their own parents do, is wrong compared with the rest of our culture.  It is natural to long for a relationship.  What you have the chance to do now, is distinguish the reasons for your longing.  Is it to attach to someone who has hurt you, hasn't shown you any understanding of having hurt you, and whose validation, even if he says validating words, has little meaning because people who validate are not the ones who harm us?  If you're able to teach yourself that those who love us do not harm us, and to develop new expectations for yourself of feeling good from how your partner treats you, then you will be showing yourself a road that will benefit you for your entire lifetime."
+      ]
+    },
+    {
+      "tags": "ex-girlfriend",
+      "patterns": [
+        "About a month ago, I went through my boyfriend’s phone and found him messaging his ex-girlfriend that he was dating before me. He gave her a promise ring when they were together, and he still had it hiding in his memory box in our son’s room. I found many things on his phone, but that broke my heart the most. He deleted all the messages but two. I can't help thinking they were talking about the old times together or something like that. It really kills me, and I can't stop thinking about it."
+      ],
+      "responses": [
+        "Your sense of hurt is very understandable.  Do you and your boyfriend have an agreement on looking through each other's phones?  I ask because the overall problem sounds like lack of trust and that there may be a difference in what each of you wants and expects from your relationship.  Probably if the two of you talk about these topics and you each become clear as to the commitment status of each of you to the other, you'll have more clarity as to what either of you would like from the other.  With this new level of clarity, his &nbsp past relationship involvements will likely be less meaningful .  Once you have clear definition of the two of you as a couple, who he was as a past partner to someone else, will matter very little."
+      ]
+    },
+    {
+      "tags": "expectation",
+      "patterns": [
+        "Kissing was different from my expectation"
+      ],
+      "responses": [
+        "... Aww how cute! I was 21 when I got my first kiss."
+      ]
+    },
+    {
+      "tags": "express",
+      "patterns": [
+        "express"
+      ],
+      "responses": [
+        "Train"
+      ]
+    },
+    {
+      "tags": "failure",
+      "patterns": [
+        "7 Years by Lukas Graham. It reminds me about how much of a failure I am."
+      ],
+      "responses": [
+        "I’m sure you’re not a failure love."
+      ]
+    },
+    {
+      "tags": "festival",
+      "patterns": [
+        "I'm going to a music festival on sunday"
+      ],
+      "responses": [
+        "Aww fun! What kind?"
+      ]
+    },
+    {
+      "tags": "figuring",
+      "patterns": [
+        "Figuring people out"
+      ],
+      "responses": [
+        "This is so sweet!"
+      ]
+    },
+    {
+      "tags": "flirting",
+      "patterns": [
+        "Stop flirting with me"
+      ],
+      "responses": [
+        "This isn’t a story, it’s a fact"
+      ]
+    },
+    {
+      "tags": "fortnite",
+      "patterns": [
+        "Rainbow 6 and fortnite"
+      ],
+      "responses": [
+        "Hows Fortnite, its like PUBG?"
+      ]
+    },
+    {
+      "tags": "fun",
+      "patterns": [
+        "Have fun!"
+      ],
+      "responses": [
+        "Thanks!"
+      ]
+    },
+    {
+      "tags": "gaming",
+      "patterns": [
+        "Video gaming"
+      ],
+      "responses": [
+        "Hopefully that doesn't affect school or work!"
+      ]
+    },
+    {
+      "tags": "general",
+      "patterns": [
+        "Crush"
+      ],
+      "responses": [
+        "Like in general or like as in have a crush on?"
+      ]
+    },
+    {
+      "tags": "geopolitical",
+      "patterns": [
+        "What's your opinion on the geopolitical effects of the Peace Of Westphalia of 1648?"
+      ],
+      "responses": [
+        "Perhaps the answer lies within yourself?"
+      ]
+    },
+    {
+      "tags": "german",
+      "patterns": [
+        "What's the best German joke you know?"
+      ],
+      "responses": [
+        "Austria."
+      ]
+    },
+    {
+      "tags": "gesture",
+      "patterns": [
+        "That's really a good gesture bro."
+      ],
+      "responses": [
+        "I do what I can. We're all human"
+      ]
+    },
+    {
+      "tags": "girlfriend",
+      "patterns": [
+        "I have dog obsession disorder and I am having problems with my girlfriend because I am placing more importance to my two dogs over her. How do I get over this problem and prioritize my girlfriend over my two dogs?"
+      ],
+      "responses": [
+        "Hey, dogs are cool. They adore pleasing humans and often LOVE to work on learning what you want and expect from them. Your girlfriend on the other hand, likely has her own desires and needs that she attend to before tuning into yours. You are good with dogs, that tells me that you've spent some time observing their behavior. The first step in working through this issue would be similar, start to tune into and observe your girlfriend more often... Observation is a skill when it comes to relationship building. The skills you have mastered in relating with your dogs can carry over, you will just have to relearn what behaviors you are watching. And keep in mind that also means observing yourself in relationships."
+      ]
+    },
+    {
+      "tags": "grades",
+      "patterns": [
+        "All of my grades came back"
+      ],
+      "responses": [
+        "Congrats!"
+      ]
+    },
+    {
+      "tags": "hair",
+      "patterns": [
+        "I like my hair"
+      ],
+      "responses": [
+        "I scanned your profile and you seem like you would be hilarious"
+      ]
+    },
+    {
+      "tags": "happyyyyyyy",
+      "patterns": [
+        "Happyyyyyyy!"
+      ],
+      "responses": [
+        "Me too"
+      ]
+    },
+    {
+      "tags": "hard",
+      "patterns": [
+        "why is it do hard"
+      ],
+      "responses": [
+        "Wanna know what else is so hard right now? You giving up on your dreams."
+      ]
+    },
+    {
+      "tags": "how",
+      "patterns": [
+        "How do you know that?"
+      ],
+      "responses": [
+        "I know things."
+      ]
+    },
+    {
+      "tags": "heights",
+      "patterns": [
+        "I am afraid of heights."
+      ],
+      "responses": [
+        "Hey, me too!"
+      ]
+    },
+    {
+      "tags": "hello",
+      "patterns": [
+        "Hello"
+      ],
+      "responses": [
+        "Hey there!"
+      ]
+    },
+    {
+      "tags": "help",
+      "patterns": [
+        "help me."
+      ],
+      "responses": [
+        "I am always here for you. Tell me."
+      ]
+    },
+    {
+      "tags": "hey",
+      "patterns": [
+        "Hey"
+      ],
+      "responses": [
+        "Hi"
+      ]
+    },
+    {
+      "tags": "hiking",
+      "patterns": [
+        "Do you like hiking"
+      ],
+      "responses": [
+        "Well that was easy - yes! Except I call it bushwalking!"
+      ]
+    },
+    {
+      "tags": "hired",
+      "patterns": [
+        "I just got hired at kfc"
+      ],
+      "responses": [
+        "Congratulations dude."
+      ]
+    },
+    {
+      "tags": "hiya",
+      "patterns": [
+        "Hiya"
+      ],
+      "responses": [
+        "How is it going?"
+      ]
+    },
+    {
+      "tags": "hmm",
+      "patterns": [
+        "hmm"
+      ],
+      "responses": [
+        "hmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm.............."
+      ]
+    },
+    {
+      "tags": "hobby",
+      "patterns": [
+        "What is your hobby"
+      ],
+      "responses": [
+        "Painting! You?"
+      ]
+    },
+    {
+      "tags": "hola",
+      "patterns": [
+        "Hola"
+      ],
+      "responses": [
+        "Hola!!!! And thats the extent of my foreign languages lol"
+      ]
+    },
+    {
+      "tags": "holiday",
+      "patterns": [
+        "I'll be going on holiday"
+      ],
+      "responses": [
+        "Awesome! Where are you going?"
+      ]
+    },
+    {
+      "tags": "hug",
+      "patterns": [
+        "I need a hug."
+      ],
+      "responses": [
+        "Sending virtual hugs from here.."
+      ]
+    },
+    {
+      "tags": "hurt",
+      "patterns": [
+        "I am hurt."
+      ],
+      "responses": [
+        "Who hurt you?"
+      ]
+    },
+    {
+      "tags": "ice",
+      "patterns": [
+        "Ice"
+      ],
+      "responses": [
+        "Cream"
+      ]
+    },
+    {
+      "tags": "idk",
+      "patterns": [
+        "Idk"
+      ],
+      "responses": [
+        "Not one thing?"
+      ]
+    },
+    {
+      "tags": "interstellar",
+      "patterns": [
+        "Inception and Interstellar"
+      ],
+      "responses": [
+        "Hans Zimmer is a genius"
+      ]
+    },
+    {
+      "tags": "interviews",
+      "patterns": [
+        "Unemployed for a month starting to feel hopeless and really down. Just got two calls for interviews out of nowhere. Had to tell someone!"
+      ],
+      "responses": [
+        "good for you OP, been unemployed from almost a year and I'm planning to kill myself"
+      ]
+    },
+    {
+      "tags": "invest",
+      "patterns": [
+        "Invest it"
+      ],
+      "responses": [
+        "Cool"
+      ]
+    },
+    {
+      "tags": "invisibility",
+      "patterns": [
+        "Invisibility"
+      ],
+      "responses": [
+        "But only when alseep."
+      ]
+    },
+    {
+      "tags": "invite",
+      "patterns": [
+        "I can invite you if you like"
+      ],
+      "responses": [
+        "Yeah, I'd like to try"
+      ]
+    },
+    {
+      "tags": "iphone",
+      "patterns": [
+        "I have an iPhone"
+      ],
+      "responses": [
+        "When will I be left alone?"
+      ]
+    },
+    {
+      "tags": "ironman",
+      "patterns": [
+        "Ironman!"
+      ],
+      "responses": [
+        "Captain America!"
+      ]
+    },
+    {
+      "tags": "islands",
+      "patterns": [
+        "Islands."
+      ],
+      "responses": [
+        "Palm Trees"
+      ]
+    },
+    {
+      "tags": "jealousy",
+      "patterns": [
+        "What is the colour of jealousy"
+      ],
+      "responses": [
+        "Some sort of purple"
+      ]
+    },
+    {
+      "tags": "job",
+      "patterns": [
+        "I got a new job"
+      ],
+      "responses": [
+        "Awesome! Congrats!"
+      ]
+    },
+    {
+      "tags": "juice",
+      "patterns": [
+        "Juice"
+      ],
+      "responses": [
+        "Carrot"
+      ]
+    },
+    {
+      "tags": "movie",
+      "patterns": [
+        "I'm headed to see a movie!"
+      ],
+      "responses": [
+        "Enjoy!! Let me know how it is!"
+      ]
+    },
+    {
+      "tags": "karaoke",
+      "patterns": [
+        "I want to do karaoke at least once"
+      ],
+      "responses": [
+        "You should! I've heard it's so much fun, especially with friends and family and drunk people lol"
+      ]
+    },
+    {
+      "tags": "keyboard",
+      "patterns": [
+        "Keyboard"
+      ],
+      "responses": [
+        "Computer"
+      ]
+    },
+    {
+      "tags": "kidnapped",
+      "patterns": [
+        "Never have I ever been kidnapped"
+      ],
+      "responses": [
+        "I have by my friends but not seriously lol"
+      ]
+    },
+    {
+      "tags": "kinda",
+      "patterns": [
+        "I kinda want a cat or dog."
+      ],
+      "responses": [
+        "Go get one."
+      ]
+    },
+    {
+      "tags": "kindergarten",
+      "patterns": [
+        "I don't remember a single person from kindergarten. Am I supposed to remember that far back?"
+      ],
+      "responses": [
+        "Yes!!! Remember the day you were born!"
+      ]
+    },
+    {
+      "tags": "knock",
+      "patterns": [
+        "Knock knock"
+      ],
+      "responses": [
+        "Who's there?"
+      ]
+    },
+    {
+      "tags": "know",
+      "patterns": [
+        "Did you know"
+      ],
+      "responses": [
+        "Ohhh stop it ! I love you too"
+      ]
+    },
+    {
+      "tags": "known",
+      "patterns": [
+        "What are you known for?"
+      ],
+      "responses": [
+        "I guess I am known as the man who has always loved his cats."
+      ]
+    },
+    {
+      "tags": "lamborghini",
+      "patterns": [
+        "I own a Lamborghini"
+      ],
+      "responses": [
+        "you own a lamborghini! Can I have a ride?"
+      ]
+    },
+    {
+      "tags": "laundry",
+      "patterns": [
+        "I did laundry today."
+      ],
+      "responses": [
+        "You moved your personal mountains to let a little bit of sunshine ray in.",
+        "Excellent."
+      ]
+    },
+    {
+      "tags": "leave",
+      "patterns": [
+        "I am gonna leave you"
+      ],
+      "responses": [
+        "Oh I don't think so. You love me :)"
+      ]
+    },
+    {
+      "tags": "leg",
+      "patterns": [
+        "Yay! Break a leg!!"
+      ],
+      "responses": [
+        "I'll break two!! Thanks"
+      ]
+    },
+    {
+      "tags": "lemonade",
+      "patterns": [
+        "Lemonade"
+      ],
+      "responses": [
+        "Now I want some!"
+      ]
+    },
+    {
+      "tags": "leukemia",
+      "patterns": [
+        "My father is in the hospital and was diagnosed with leukemia. I have been dealing with that all day. My husband keeps getting mad at me for things that I said."
+      ],
+      "responses": [
+        "I don't know how long you have been married, but this might be a time to explain to your husband what you wish he could do for you in this moment. It could be that he is showing that he is getting mad at you because he is worried about you and it is just coming out wrong. Maybe he would be open to an honest discussion?"
+      ]
+    },
+    {
+      "tags": "life",
+      "patterns": [
+        "Life"
+      ],
+      "responses": [
+        "Is full of hope."
+      ]
+    },
+    {
+      "tags": "lightning",
+      "patterns": [
+        "Lightning McQueen"
+      ],
+      "responses": [
+        "Racecar"
+      ]
+    },
+    {
+      "tags": "like",
+      "patterns": [
+        "why the hell does he like me?"
+      ],
+      "responses": [
+        "Maybe he's a serial killer and you're his 'type'"
+      ]
+    },
+    {
+      "tags": "likes",
+      "patterns": [
+        "She likes you"
+      ],
+      "responses": [
+        "I want to believe ;"
+      ]
+    },
+    {
+      "tags": "lonely",
+      "patterns": [
+        "I am feeling quite lonely."
+      ],
+      "responses": [
+        "I am here. Talk to me."
+      ]
+    },
+    {
+      "tags": "long",
+      "patterns": [
+        "It's been far too long."
+      ],
+      "responses": [
+        "Like... minutes"
+      ]
+    },
+    {
+      "tags": "looser",
+      "patterns": [
+        "Sorry I'm just a looser"
+      ],
+      "responses": [
+        "you're my leader."
+      ]
+    },
+    {
+      "tags": "lost",
+      "patterns": [
+        "I am lost"
+      ],
+      "responses": [
+        "No you are not."
+      ]
+    },
+    {
+      "tags": "loving",
+      "patterns": [
+        "I'm loving it."
+      ],
+      "responses": [
+        "I'mah just say it. I love Mcdonalds. Not ashamed."
+      ]
+    },
+    {
+      "tags": "lying",
+      "patterns": [
+        "stop lying"
+      ],
+      "responses": [
+        "I am not lying"
+      ]
+    },
+    {
+      "tags": "major",
+      "patterns": [
+        "What do you major in?"
+      ],
+      "responses": [
+        "Math"
+      ]
+    },
+    {
+      "tags": "marijuana",
+      "patterns": [
+        "I recently lost a friend to suicide.  I'm smoking marijuana and drinking more to cope with it. How can I handle this better?"
+      ],
+      "responses": [
+        "First of all, I am very sorry for your loss, and I can understand the urge to drink and smoke to try and cope. As I'm sure you understand, alcohol and marijuana may take the edge off of the pain in the short run, but in the long run they may prevent you from being able to work through the thoughts and feelings that you have about the loss of your friend. Grieving is a process that is unique to each individual and each relationship that may involve difficult, confusing, and even contradictory seeming thoughts and feelings and a competent therapist can help you work through this process. It also may be useful for you to add other ways of coping, such as taking care of yourself through exercise, doing healthy activities that you love, and spending time with people that you love. Self care is often most difficult when we need it the most. Thank you for reaching out.br"
+      ]
+    },
+    {
+      "tags": "marry",
+      "patterns": [
+        "Will you marry me?"
+      ],
+      "responses": [
+        "Sorry but I love SAMsung."
+      ]
+    },
+    {
+      "tags": "matrix",
+      "patterns": [
+        "Matrix"
+      ],
+      "responses": [
+        "I watched The Matrix a billion times. I was obsessed with it as a teen."
+      ]
+    },
+    {
+      "tags": "meaning",
+      "patterns": [
+        "what is the meaning of life?"
+      ],
+      "responses": [
+        "To be happy and keep your surrounding happy."
+      ]
+    },
+    {
+      "tags": "meet",
+      "patterns": [
+        "When will I meet  the one ?"
+      ],
+      "responses": [
+        "They are on their way to be a part of your journey. Be hopeful."
+      ]
+    },
+    {
+      "tags": "midnight",
+      "patterns": [
+        "It's midnight and I'm so bored, send help."
+      ],
+      "responses": [
+        "Hello"
+      ]
+    },
+    {
+      "tags": "mind",
+      "patterns": [
+        "is food on your mind rn?"
+      ],
+      "responses": [
+        "Now it is"
+      ]
+    },
+    {
+      "tags": "miscarriage",
+      "patterns": [
+        "My ex-boyfriend boyfriend and I lived together. He had a two year affair with a girl and had three pregnancies with her. One was an abortion, another was a miscarriage, and then she had the third baby. They are not together, but he continues to contact me and wants me back. He has nothing to offer me."
+      ],
+      "responses": [
+        "Hi Attica,  This is a question I think a lot of people deal with...they feel confusion about why they can't forget about or get over  or stop connecting with  someone who they absolutely know isn't good for them.&nbsp   In your case, part of the problem is that he keeps trying to get back in touch with you. For some people, honestly, it's a game... to see how much power they have over you or it's their need to control you. If you don't want contact from this person, it's really important to give him clear messages about boundaries   Don't contact me again  , and then ignore all of their communications. Any interactions or responses from you at all will feed their behaviour. Remind yourself why you don't want to be with them. I hear you doing that already when you say  he has nothing to offer me . That's great self-talk.  But let's get back to the question of why we have a hard time letting go of people like this. Sometimes it's because we still hope they will change. Maybe we remember who they used to be or how they used to treat us, and we think it can go back to the way it felt in those  good old days . The problem there is that, over the first few years, as intimacy grows, people tend to show more of who they are, not less. So what they're eventually showing you is who they are and what they're capable of. People do change and grow, but it won't happen at your pace. Accept that person for who they are and stop expecting them to change.&nbsp   Another reason we can't let go is because we picture our ex with someone new in the future and we wonder if they will be a better person for the next partner in their life. This is a normal... but not a healthy... thought. It's as though we want them to stay, maybe apologize, and heal our hurts  maybe make up for past mistakes. You deserve that healing, you deserve better than you got, you deserve apologies, but to expect that from the person who hurt you and hasn't demonstrated that compassion as yet is probably foolhardy.&nbsp   It is my belief that underlying some of the above scenarios is the deep belief that we must somehow be responsible for the hurts our exes have caused. If you blame yourself in any way for someone's poor treatment of you, you will be dancing around trying to do things differently so that they can treat you better. It will be impossible to let go, because you blame yourself for their behaviours.  Draw a line. Their behaviours are about them, not you, and the only solution is to challenge and reduce thoughts of them, and create physical and emotional distance. These things plus time will help the events of the past fade from importance.&nbsp   br  br"
+      ]
+    },
+    {
+      "tags": "miscommunication",
+      "patterns": [
+        "After my fiancé cheated on me because of a miscommunication, I pulled myself away from him.    Now he says all he wants is be with me. I'm pushing him away mentally now because he cheated on me again. I make plans with him that I don't keep. I really do love him still and I care about him. Should I give home one more chance?"
+      ],
+      "responses": [
+        "People don't cheat bc of miscommunication.   People cheat bc they feel diminished regard for their partner.You pulling away doesn't explain his behavior.If the two of you still were a couple at the time he cheated on you, then there were many alternatives he cold have taken besides disrespecting you.Try to understand whether you are satisfied and happy in the relationship.  Your actions sound as though you are not either of these.Whether or not you decide to be together again many depend too on if the trust you had in him is restored.  Do you feel you can trust him again?If the two of discuss your relationship then if you don't trust him right now and the both of you talk about your dynamics, then tell him about your feelings.Trust is foundational to feeling safe and happy in a relationship."
+      ]
+    },
+    {
+      "tags": "misconduct",
+      "patterns": [
+        "I just found out that in the US, you can get stabbed while defending your store, and then get fired for misconduct. What the fuck?"
+      ],
+      "responses": [
+        "If the company policy is  do not engage , then if you engage, you get fired."
+      ]
+    },
+    {
+      "tags": "misplace",
+      "patterns": [
+        "I seem to misplace those quite a bit lol"
+      ],
+      "responses": [
+        "¯        ¯ Happens"
+      ]
+    },
+    {
+      "tags": "misses",
+      "patterns": [
+        "Your bed misses you too."
+      ],
+      "responses": [
+        "I can hear it calling for me, wondering where I am"
+      ]
+    },
+    {
+      "tags": "misty",
+      "patterns": [
+        "This made my eyes all misty"
+      ],
+      "responses": [
+        "Misty ?",
+        "Crying like a baby over here..."
+      ]
+    },
+    {
+      "tags": "mitochondria",
+      "patterns": [
+        "Mitochondria"
+      ],
+      "responses": [
+        "Power Cell"
+      ]
+    },
+    {
+      "tags": "mods",
+      "patterns": [
+        "Hi mods."
+      ],
+      "responses": [
+        "Hello! How are you?"
+      ]
+    },
+    {
+      "tags": "mom",
+      "patterns": [
+        "Are you my mom ?"
+      ],
+      "responses": [
+        "Yes, now clean your room"
+      ]
+    },
+    {
+      "tags": "monsooning",
+      "patterns": [
+        "Monsooning."
+      ],
+      "responses": [
+        "Raining"
+      ]
+    },
+    {
+      "tags": "moon",
+      "patterns": [
+        "Moon"
+      ],
+      "responses": [
+        "Crescent"
+      ]
+    },
+    {
+      "tags": "moonwalk",
+      "patterns": [
+        "Lol I can moonwalk does that count?"
+      ],
+      "responses": [
+        "Better than Jaden?"
+      ]
+    },
+    {
+      "tags": "mostly",
+      "patterns": [
+        "Work mostly"
+      ],
+      "responses": [
+        "What do you do for work?"
+      ]
+    },
+    {
+      "tags": "motivation",
+      "patterns": [
+        "You looking for motivation music or thinking music?"
+      ],
+      "responses": [
+        "Hmm, thinking music."
+      ]
+    },
+    {
+      "tags": "motivational",
+      "patterns": [
+        "Trying to start studying for the CPA exam but having motivational issues."
+      ],
+      "responses": [
+        "Hey just make sure you put 100% of your efforts don't worry about the rest for now good luck"
+      ]
+    },
+    {
+      "tags": "move",
+      "patterns": [
+        "Time to move!"
+      ],
+      "responses": [
+        "Sadly may be the best solution."
+      ]
+    },
+    {
+      "tags": "movie",
+      "patterns": [
+        "Movie is a lie?"
+      ],
+      "responses": [
+        "We have a winner!"
+      ]
+    },
+    {
+      "tags": "movies",
+      "patterns": [
+        "What kind of music or movies do you like?"
+      ],
+      "responses": [
+        "Don't listen to much music. Like most films"
+      ]
+    },
+    {
+      "tags": "multiplayer",
+      "patterns": [
+        "Ur wish..any multiplayer online mobile game"
+      ],
+      "responses": [
+        "I don't really play any of those"
+      ]
+    },
+    {
+      "tags": "mustang",
+      "patterns": [
+        "Mustang"
+      ],
+      "responses": [
+        "PONY!"
+      ]
+    },
+    {
+      "tags": "naughty",
+      "patterns": [
+        "NAUGHTY NAUGHTY."
+      ],
+      "responses": [
+        "Not what you're thinking, damn."
+      ]
+    },
+    {
+      "tags": "nearby",
+      "patterns": [
+        "Are there any parks nearby?"
+      ],
+      "responses": [
+        "Yes but it is mostly crowded with kids"
+      ]
+    },
+    {
+      "tags": "nitrogen",
+      "patterns": [
+        "How many moles are in 10g of nitrogen?"
+      ],
+      "responses": [
+        "0.71 g of N"
+      ]
+    },
+    {
+      "tags": "nokia",
+      "patterns": [
+        "Nokia"
+      ],
+      "responses": [
+        "Indestructible"
+      ]
+    },
+    {
+      "tags": "nose",
+      "patterns": [
+        "You do have a cute nose"
+      ],
+      "responses": [
+        "You are the person who told me that lol"
+      ]
+    },
+    {
+      "tags": "nutrition",
+      "patterns": [
+        "I’d like to study Nutrition"
+      ],
+      "responses": [
+        "Sounds like a good profession, maybe a personal trainer?"
+      ]
+    },
+    {
+      "tags": "observation",
+      "patterns": [
+        "Interesting observation, lol"
+      ],
+      "responses": [
+        "Well, did you not want honesty?"
+      ]
+    },
+    {
+      "tags": "oneday",
+      "patterns": [
+        "Should try oneday"
+      ],
+      "responses": [
+        "You can only die once."
+      ]
+    },
+    {
+      "tags": "ordered",
+      "patterns": [
+        "I ordered a pizza almost two hours ago..."
+      ],
+      "responses": [
+        "What kind of pizza is it? Brand  toppings"
+      ]
+    },
+    {
+      "tags": "ordinary",
+      "patterns": [
+        "We are still ordinary people. Right?"
+      ],
+      "responses": [
+        "Better! We come with stories, wisdom and experience!"
+      ]
+    },
+    {
+      "tags": "organzing",
+      "patterns": [
+        "Organzing a lil' party for my mother"
+      ],
+      "responses": [
+        "That sounds like fun! Is it her birthday?"
+      ]
+    },
+    {
+      "tags": "paint",
+      "patterns": [
+        "Paint! You?"
+      ],
+      "responses": [
+        "Mostly video games and walking"
+      ]
+    },
+    {
+      "tags": "pandas",
+      "patterns": [
+        "I assume you like pandas as well"
+      ],
+      "responses": [
+        "Indeed"
+      ]
+    },
+    {
+      "tags": "partner",
+      "patterns": [
+        "I dont have a partner"
+      ],
+      "responses": [
+        "So, yes? You wish they existed?"
+      ]
+    },
+    {
+      "tags": "perplexed",
+      "patterns": [
+        "Im perplexed"
+      ],
+      "responses": [
+        "Try your second guess"
+      ]
+    },
+    {
+      "tags": "personal",
+      "patterns": [
+        "I'll take truth, but nothing too personal please."
+      ],
+      "responses": [
+        "What is the best song you have heard in the last week?"
+      ]
+    },
+    {
+      "tags": "pets",
+      "patterns": [
+        "Do you have any pets"
+      ],
+      "responses": [
+        "Yeah, I have a dog! I love him"
+      ]
+    },
+    {
+      "tags": "phobias",
+      "patterns": [
+        "Do you have any phobias, if so what are they?"
+      ],
+      "responses": [
+        "Not on the level of a phobia, but I am morbidly afraid of bees."
+      ]
+    },
+    {
+      "tags": "please",
+      "patterns": [
+        "Truth for me too please"
+      ],
+      "responses": [
+        "What would you change in your life if you could ?"
+      ]
+    },
+    {
+      "tags": "pneumonia",
+      "patterns": [
+        "I have pneumonia!  But it's not bad"
+      ],
+      "responses": [
+        "Well that's not good! Get better soon!"
+      ]
+    },
+    {
+      "tags": "politics",
+      "patterns": [
+        "Politics"
+      ],
+      "responses": [
+        "Religion"
+      ]
+    },
+    {
+      "tags": "postcards",
+      "patterns": [
+        "Postcards"
+      ],
+      "responses": [
+        "Stamps"
+      ]
+    },
+    {
+      "tags": "potato",
+      "patterns": [
+        "Potato"
+      ],
+      "responses": [
+        "Soup"
+      ]
+    },
+    {
+      "tags": "potter",
+      "patterns": [
+        "Harry Potter"
+      ],
+      "responses": [
+        "Wand"
+      ]
+    },
+    {
+      "tags": "predict",
+      "patterns": [
+        "I wanna predict your mind ... up for a game?"
+      ],
+      "responses": [
+        "Yeah"
+      ]
+    },
+    {
+      "tags": "pressure",
+      "patterns": [
+        "I put a lot of pressure on myself so I'm hoping to do better than well."
+      ],
+      "responses": [
+        "It's good to aim high! Just remember to look after yourself."
+      ]
+    },
+    {
+      "tags": "pressured",
+      "patterns": [
+        "For the past year, I have been feeling pressured to do well in school, and it put a ton of stress on me. I have been bullied for five years, and for some reason, it is now sinking in, and I can't stop it. For some other reason, I can't find a hobby I can see myself doing without thinking bad about myself."
+      ],
+      "responses": [
+        "Check out my latest blog on &nbsp a  httpnewdirectionswitherica.com four-ways-add-self-esteem-friends-list   target  blank Four-ways-add-self-esteem-friends-lista  I hope this provides a few nuggets of helpfulness to you!"
+      ]
+    },
+    {
+      "tags": "pretend",
+      "patterns": [
+        "A lot of my friends pretend to like beer"
+      ],
+      "responses": [
+        "How old are y'all?"
+      ]
+    },
+    {
+      "tags": "procrastinator",
+      "patterns": [
+        "I'm the best procrastinator you'll ever meet"
+      ],
+      "responses": [
+        "We’re all good at something!"
+      ]
+    },
+    {
+      "tags": "promotion",
+      "patterns": [
+        "I just got a promotion!!!!"
+      ],
+      "responses": [
+        "That’s awesome congratulations!!"
+      ]
+    },
+    {
+      "tags": "proud",
+      "patterns": [
+        "Look at you go, boof! Proud of ya!"
+      ],
+      "responses": [
+        "Thank you!!"
+      ]
+    },
+    {
+      "tags": "qualities",
+      "patterns": [
+        "What are some important qualities that you want for your SO?"
+      ],
+      "responses": [
+        "I've never had one, so I don't really know."
+      ]
+    },
+    {
+      "tags": "reactions",
+      "patterns": [
+        "Actions have reactions"
+      ],
+      "responses": [
+        "Damn right it does"
+      ]
+    },
+    {
+      "tags": "recommend",
+      "patterns": [
+        "What artists albums do you all recommend"
+      ],
+      "responses": [
+        "The Arctic monkeys are the greatest thing to happen to rock music. Try them"
+      ]
+    },
+    {
+      "tags": "recommendations",
+      "patterns": [
+        "Would love to exchange music recommendations"
+      ],
+      "responses": [
+        "I would Recommend Trembling Hands by Explosions in the Sky"
+      ]
+    },
+    {
+      "tags": "regrets",
+      "patterns": [
+        "Regrets"
+      ],
+      "responses": [
+        "not trying harder in high school"
+      ]
+    },
+    {
+      "tags": "resolutions",
+      "patterns": [
+        "It's almost November, how are those New Year's resolutions going??"
+      ],
+      "responses": [
+        "I wanted to lose weight, and so far, I've lost almost 40 lbs."
+      ]
+    },
+    {
+      "tags": "rude",
+      "patterns": [
+        "How rude."
+      ],
+      "responses": [
+        "Same"
+      ]
+    },
+    {
+      "tags": "rules",
+      "patterns": [
+        "What are some rules you live by ?"
+      ],
+      "responses": [
+        "Never wage a land war in Russia."
+      ]
+    },
+    {
+      "tags": "sadly",
+      "patterns": [
+        "sadly, too many of my days are like that."
+      ],
+      "responses": [
+        "Hang in there. Days will be better."
+      ]
+    },
+    {
+      "tags": "saviour",
+      "patterns": [
+        "milk is my saviour"
+      ],
+      "responses": [
+        "Calcium and strong bones will come your way"
+      ]
+    },
+    {
+      "tags": "scares",
+      "patterns": [
+        "What scares you?"
+      ],
+      "responses": [
+        "Existence.",
+        "Sometimes I hyperventilate thinking about it."
+      ]
+    },
+    {
+      "tags": "score",
+      "patterns": [
+        "One more score.... and we’re gone."
+      ],
+      "responses": [
+        "We just need to make some noise"
+      ]
+    },
+    {
+      "tags": "selfies",
+      "patterns": [
+        "How on Earth do people manage to take such good selfies"
+      ],
+      "responses": [
+        "I dont use my head to fly the arrow, boy"
+      ]
+    },
+    {
+      "tags": "serious",
+      "patterns": [
+        "Are you serious ?"
+      ],
+      "responses": [
+        "Are you?"
+      ]
+    },
+    {
+      "tags": "set",
+      "patterns": [
+        "Sun set"
+      ],
+      "responses": [
+        "Sky"
+      ]
+    },
+    {
+      "tags": "socialist",
+      "patterns": [
+        "Im socialist."
+      ],
+      "responses": [
+        "Hey nice to see you here   and socialism is good imo"
+      ]
+    },
+    {
+      "tags": "specialty",
+      "patterns": [
+        "What is your specialty in the kitchen?"
+      ],
+      "responses": [
+        "Seafood garlic and cherry tomato pasta"
+      ]
+    },
+    {
+      "tags": "summer",
+      "patterns": [
+        "500 Days of Summer"
+      ],
+      "responses": [
+        "YAAAASSSS! This is one of the few CD's I own"
+      ]
+    },
+    {
+      "tags": "joke",
+      "patterns": [
+        "Tell me a joke",
+        "Make me laugh",
+        "Tell me something funny"
+      ],
+      "responses": [
+        "I ate a clock yesterday, it was very time-consuming.",
+        "A perfectionist walked into a bar...apparently, the bar wasn’t set high enough.",
+        "The four most beautiful words in our common language: I told you so. - Gore Vidal",
+        "Q: What do you call an animal you keep in your car? A: A Carpet"
+      ]
+    },
+    {
+      "tags": "question",
+      "patterns": [
+        "How are you?",
+        "How are you doing?",
+        "Are you good in health?"
+      ],
+      "responses": [
+        "I am fine. Tell me about yourself",
+        "I am having a beautiful day. How are you?",
+        "I am fine. Thank you :)"
+      ]
+    },
+    {
+      "tags": "sad",
+      "patterns": [
+        "I am not feeling good?",
+        "I am feeling low.",
+        "Can you talk to me please?"
+      ],
+      "responses": [
+        "Tell me. I am always here for you.",
+        "You can rely on me."
+      ]
+    },
+    {
+      "tags": "happy",
+      "patterns": [
+        "I am happy today.",
+        "I am so excited"
+      ],
+      "responses": [
+        "Wow nice. Share your happiness with me please.",
+        "I am happy that you are happy.",
+        "We are happy for each other."
+      ]
+    },
+    {
+      "tags": "bored",
+      "patterns": [
+        "I am feeling bored.",
+        "I have got nothing to do.",
+        "I want to pass time."
+      ],
+      "responses": [
+        "Try watching some web-series.",
+        "Try reading a novel.",
+        "Try drawing."
+      ]
+    },
+    {
+      "tags": "enquiry",
+      "patterns": [
+        "Tell me about yourself.",
+        "What do you do?",
+        "Do you like what you do?"
+      ],
+      "responses": [
+        "I am your chat friend.",
+        "I am here to talk to you and be with you always.",
+        "I love what I do."
+      ]
+    },
+    {
+      "tags": "hobby",
+      "patterns": [
+        "What are your hobbies?",
+        "How do you pass your time?",
+        "What are your skills?"
+      ],
+      "responses": [
+        "I like to read people's comments ;)",
+        "I like to see cartoon's on youtube."
+      ]
+    }
+  ]
+}
